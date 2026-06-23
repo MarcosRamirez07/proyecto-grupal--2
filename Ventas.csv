@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Fecha_de_compra,Categoría_producto,Producto,Precio_unitario,Cantidad,Total_venta,Método_de_pago,Ubicación_cliente,Dispositivo_de_compra,Fuente_de_tráfico,Tiempo_de_navegación,Descuento_aplicado,Satisfacción_cliente
+1,8845,2024-01-10 06:05:00,Ropa,Gorra,454.19,1,454.19,PayPal,"Ciudad 9, País 9",Móvil,Orgánico,19,No,1
+2,1198,2024-02-29 22:19:00,Electrónica,Teclado,433.62,4,1734.48,Tarjeta de crédito,"Ciudad 32, País 3",Tablet,Orgánico,3,Sí,2
+3,4003,2024-01-23 09:41:00,Belleza,Maquillaje,26.22,3,78.66,PayPal,"Ciudad 40, País 3",Móvil,Referido,12,Sí,5
+4,3943,2024-02-08 14:15:00,Belleza,Afeitadora,410.58,4,1642.32,PayPal,"Ciudad 31, País 7",Tablet,Pago,2,Sí,3
+5,5159,2024-02-26 20:45:00,Belleza,Perfume,388.48,2,776.96,Tarjeta de crédito,"Ciudad 5, País 5",PC,Orgánico,1,Sí,2
+6,5863,2024-02-22 15:07:00,Electrónica,Laptop,312.1,4,1248.4,Criptomoneda,"Ciudad 46, País 9",Tablet,Pago,18,No,4
+7,7607,2024-03-01 04:29:00,Electrónica,Laptop,32.87,1,32.87,PayPal,"Ciudad 48, País 9",PC,Referido,2,No,1
+8,1649,2024-02-13 10:54:00,Hogar,Mesa,329.86,5,1649.3,Criptomoneda,"Ciudad 31, País 4",Tablet,Pago,11,No,1
+9,9124,2024-02-20 07:30:00,Hogar,Cafetera,357.02,5,1785.1,Tarjeta de crédito,"Ciudad 33, País 10",Tablet,Orgánico,19,Sí,4
+10,5914,2024-02-14 04:23:00,Belleza,Crema,213.46,4,853.84,Criptomoneda,"Ciudad 20, País 5",Móvil,Pago,12,No,1
+11,3562,2024-02-19 23:58:00,Ropa,Zapatos,269.98,2,539.96,Tarjeta de crédito,"Ciudad 26, País 10",Móvil,Redes Sociales,18,No,2
+12,8907,2024-01-18 12:56:00,Hogar,Mesa,163.68,2,327.36,Tarjeta de crédito,"Ciudad 8, País 2",Móvil,Redes Sociales,24,No,4
+13,1767,2024-01-28 06:57:00,Electrónica,Monitor,8.65,3,25.95,PayPal,"Ciudad 40, País 1",Móvil,Pago,27,No,1
+14,8081,2024-01-08 19:52:00,Deportes,Raqueta,368.13,2,736.26,Transferencia bancaria,"Ciudad 23, País 9",PC,Redes Sociales,7,No,5
+15,1555,2024-02-24 01:47:00,Deportes,Bicicleta,439.18,4,1756.72,Tarjeta de crédito,"Ciudad 15, País 8",Móvil,Pago,6,Sí,5
+16,2997,2024-02-01 00:34:00,Deportes,Casco,104.52,4,418.08,PayPal,"Ciudad 17, País 8",Móvil,Pago,4,No,4
+17,2075,2024-03-01 04:01:00,Ropa,Camisa,226.5,4,906.0,Criptomoneda,"Ciudad 1, País 3",Tablet,Pago,4,Sí,5
+18,5424,2024-01-23 12:29:00,Belleza,Crema,162.04,2,324.08,Transferencia bancaria,"Ciudad 4, País 10",Móvil,Pago,29,Sí,5
+19,6085,2024-01-30 11:26:00,Ropa,Zapatos,432.96,2,865.92,Criptomoneda,"Ciudad 7, País 7",Móvil,Referido,12,No,2
+20,2185,2024-01-04 13:21:00,Deportes,Pesas,149.88,4,599.52,Criptomoneda,"Ciudad 1, País 9",PC,Referido,9,No,4
+21,7546,2024-02-25 00:04:00,Belleza,Perfume,85.14,4,340.56,Transferencia bancaria,"Ciudad 21, País 9",Móvil,Pago,3,Sí,5
+22,6352,2024-01-02 16:47:00,Belleza,Maquillaje,473.58,1,473.58,PayPal,"Ciudad 1, País 10",Móvil,Referido,26,Sí,3
+23,6373,2024-01-18 01:37:00,Juguetes,Carro de juguete,386.0,5,1930.0,Transferencia bancaria,"Ciudad 20, País 7",PC,Pago,5,Sí,3
+24,3660,2024-02-03 04:16:00,Hogar,Sofá,498.35,4,1993.4,Criptomoneda,"Ciudad 48, País 10",PC,Redes Sociales,15,Sí,5
+25,4875,2024-01-14 16:20:00,Electrónica,Monitor,435.34,3,1306.02,Transferencia bancaria,"Ciudad 17, País 9",PC,Referido,14,Sí,1
+26,2028,2024-02-29 11:55:00,Belleza,Shampoo,6.33,5,31.65,Transferencia bancaria,"Ciudad 43, País 6",Móvil,Orgánico,16,Sí,4
+27,8714,2024-01-09 02:44:00,Belleza,Crema,475.47,1,475.47,Tarjeta de crédito,"Ciudad 15, País 3",Tablet,Orgánico,25,No,1
+28,5215,2024-02-27 09:33:00,Electrónica,Auriculares,319.62,1,319.62,Transferencia bancaria,"Ciudad 31, País 5",Móvil,Redes Sociales,27,No,3
+29,4502,2024-02-16 09:38:00,Hogar,Mesa,368.54,5,1842.7,Tarjeta de crédito,"Ciudad 5, País 8",PC,Referido,6,Sí,4
+30,7347,2024-01-15 15:48:00,Deportes,Bicicleta,24.52,4,98.08,Criptomoneda,"Ciudad 32, País 7",PC,Orgánico,6,No,5
+31,5369,2024-02-02 12:44:00,Electrónica,Monitor,488.29,3,1464.87,Criptomoneda,"Ciudad 9, País 5",Tablet,Orgánico,12,No,4
+32,1628,2024-02-02 05:44:00,Hogar,Lámpara,360.79,3,1082.37,PayPal,"Ciudad 20, País 2",Tablet,Referido,28,Sí,5
+33,4978,2024-01-04 07:00:00,Hogar,Cafetera,413.84,4,1655.36,PayPal,"Ciudad 25, País 3",Tablet,Orgánico,25,No,2
+34,7218,2024-02-21 23:10:00,Hogar,Lámpara,156.43,4,625.72,Tarjeta de crédito,"Ciudad 10, País 6",Móvil,Pago,30,No,1
+35,9958,2024-02-08 08:24:00,Juguetes,Muñeca,61.45,1,61.45,Criptomoneda,"Ciudad 45, País 1",PC,Redes Sociales,1,Sí,2
+36,8317,2024-01-07 10:31:00,Ropa,Camisa,438.38,3,1315.14,PayPal,"Ciudad 24, País 1",PC,Referido,13,No,4
+37,4509,2024-01-25 13:15:00,Belleza,Afeitadora,324.9,1,324.9,Tarjeta de crédito,"Ciudad 21, País 5",Móvil,Pago,11,Sí,5
+38,2496,2024-01-16 18:22:00,Hogar,Lámpara,305.41,2,610.82,PayPal,"Ciudad 3, País 7",PC,Orgánico,6,No,1
+39,8862,2024-01-17 03:00:00,Electrónica,Laptop,358.47,5,1792.35,PayPal,"Ciudad 1, País 8",Móvil,Referido,1,Sí,2
+40,4399,2024-02-21 00:33:00,Belleza,Maquillaje,439.67,5,2198.35,Tarjeta de crédito,"Ciudad 17, País 7",Tablet,Referido,5,Sí,4
+41,9131,2024-01-02 03:51:00,Hogar,Lámpara,236.36,4,945.44,Criptomoneda,"Ciudad 10, País 4",PC,Pago,4,Sí,5
+42,6506,2024-02-10 09:38:00,Electrónica,Laptop,188.84,5,944.2,Criptomoneda,"Ciudad 33, País 5",Tablet,Orgánico,23,Sí,2
+43,1840,2024-02-29 09:37:00,Deportes,Raqueta,207.29,5,1036.45,Criptomoneda,"Ciudad 36, País 1",PC,Referido,10,No,3
+44,6293,2024-01-01 21:27:00,Belleza,Afeitadora,312.75,1,312.75,Transferencia bancaria,"Ciudad 23, País 10",Tablet,Pago,16,Sí,1
+45,5250,2024-01-19 10:45:00,Hogar,Silla,40.85,1,40.85,PayPal,"Ciudad 8, País 8",Móvil,Orgánico,18,Sí,4
+46,8820,2024-02-23 16:45:00,Electrónica,Smartphone,267.97,1,267.97,Criptomoneda,"Ciudad 22, País 5",PC,Orgánico,3,No,1
+47,8808,2024-02-01 14:07:00,Belleza,Crema,334.21,1,334.21,Transferencia bancaria,"Ciudad 35, País 3",Tablet,Orgánico,13,No,5
+48,2919,2024-01-22 17:00:00,Hogar,Cafetera,429.44,1,429.44,Transferencia bancaria,"Ciudad 15, País 1",PC,Referido,23,Sí,3
+49,1447,2024-02-14 02:05:00,Belleza,Maquillaje,344.31,3,1032.93,Transferencia bancaria,"Ciudad 25, País 6",PC,Pago,22,Sí,2
+50,2831,2024-02-22 01:50:00,Deportes,Balón,181.11,1,181.11,Transferencia bancaria,"Ciudad 23, País 2",PC,Referido,18,Sí,3
+51,5963,2024-01-07 17:22:00,Hogar,Cafetera,154.49,5,772.45,Criptomoneda,"Ciudad 23, País 4",Móvil,Referido,3,Sí,2
+52,7614,2024-02-04 21:42:00,Electrónica,Laptop,120.71,2,241.42,PayPal,"Ciudad 30, País 6",Móvil,Redes Sociales,6,No,4
+53,4051,2024-02-01 13:10:00,Belleza,Shampoo,144.55,1,144.55,PayPal,"Ciudad 3, País 4",Tablet,Referido,9,Sí,3
+54,4278,2024-01-12 11:39:00,Belleza,Shampoo,153.23,5,766.15,Transferencia bancaria,"Ciudad 22, País 9",Tablet,Pago,17,No,5
+55,3588,2024-02-12 22:25:00,Ropa,Pantalón,472.11,3,1416.33,Criptomoneda,"Ciudad 27, País 8",PC,Orgánico,14,Sí,4
+56,3328,2024-01-05 03:56:00,Belleza,Shampoo,466.07,2,932.14,Tarjeta de crédito,"Ciudad 22, País 3",Móvil,Redes Sociales,21,Sí,5
+57,4166,2024-02-01 03:32:00,Hogar,Silla,42.01,3,126.03,Criptomoneda,"Ciudad 12, País 4",Móvil,Redes Sociales,23,Sí,5
+58,9485,2024-02-07 11:08:00,Hogar,Sofá,132.02,2,264.04,PayPal,"Ciudad 39, País 9",Tablet,Pago,30,Sí,4
+59,1934,2024-02-10 04:39:00,Belleza,Afeitadora,173.46,4,693.84,PayPal,"Ciudad 21, País 7",PC,Pago,7,Sí,1
+60,5290,2024-02-19 08:02:00,Deportes,Pesas,105.78,5,528.9,Transferencia bancaria,"Ciudad 29, País 10",Móvil,Referido,8,No,5
+61,3841,2024-02-14 06:05:00,Juguetes,Carro de juguete,332.8,4,1331.2,PayPal,"Ciudad 9, País 6",Móvil,Redes Sociales,17,No,3
+62,9744,2024-01-21 07:05:00,Hogar,Sofá,391.22,3,1173.66,PayPal,"Ciudad 41, País 3",PC,Referido,16,No,1
+63,2211,2024-02-22 12:05:00,Juguetes,Peluche,365.49,3,1096.47,Tarjeta de crédito,"Ciudad 2, País 9",PC,Referido,1,Sí,1
+64,8014,2024-02-11 02:43:00,Belleza,Maquillaje,260.98,4,1043.92,Criptomoneda,"Ciudad 26, País 9",Móvil,Referido,19,Sí,4
+65,1553,2024-01-21 09:18:00,Juguetes,Muñeca,207.66,1,207.66,Transferencia bancaria,"Ciudad 28, País 1",PC,Redes Sociales,11,Sí,1
+66,2630,2024-01-30 01:48:00,Electrónica,Teclado,468.5,3,1405.5,Criptomoneda,"Ciudad 31, País 2",Tablet,Referido,19,Sí,5
+67,1670,2024-02-08 14:21:00,Hogar,Cafetera,194.21,1,194.21,Criptomoneda,"Ciudad 32, País 2",PC,Pago,13,Sí,2
+68,3398,2024-01-08 03:41:00,Belleza,Crema,226.75,4,907.0,PayPal,"Ciudad 13, País 8",Tablet,Referido,2,No,4
+69,4124,2024-01-22 16:03:00,Deportes,Raqueta,359.58,4,1438.32,Tarjeta de crédito,"Ciudad 13, País 8",PC,Orgánico,19,Sí,5
+70,5246,2024-01-10 16:40:00,Electrónica,Smartphone,481.98,2,963.96,Transferencia bancaria,"Ciudad 24, País 8",PC,Pago,15,Sí,2
+71,8557,2024-01-01 23:24:00,Deportes,Casco,281.01,2,562.02,Transferencia bancaria,"Ciudad 44, País 9",Móvil,Referido,1,No,4
+72,4192,2024-01-14 07:10:00,Ropa,Zapatos,226.65,2,453.3,Transferencia bancaria,"Ciudad 11, País 5",PC,Referido,18,Sí,4
+73,6571,2024-02-14 11:59:00,Deportes,Bicicleta,5.34,3,16.02,Transferencia bancaria,"Ciudad 43, País 2",PC,Redes Sociales,18,Sí,3
+74,6494,2024-02-25 22:55:00,Belleza,Shampoo,221.83,3,665.49,Criptomoneda,"Ciudad 41, País 7",Móvil,Orgánico,23,No,4
+75,3498,2024-01-01 00:04:00,Ropa,Zapatos,370.02,1,370.02,Tarjeta de crédito,"Ciudad 21, País 1",PC,Redes Sociales,6,No,5
+76,9239,2024-01-06 11:39:00,Deportes,Raqueta,237.08,4,948.32,Criptomoneda,"Ciudad 44, País 6",Tablet,Orgánico,28,Sí,2
+77,1745,2024-01-25 10:37:00,Juguetes,Peluche,220.3,3,660.9,Transferencia bancaria,"Ciudad 10, País 10",Móvil,Pago,18,No,4
+78,3775,2024-01-04 07:29:00,Hogar,Mesa,444.47,4,1777.88,PayPal,"Ciudad 45, País 1",Móvil,Pago,7,Sí,1
+79,1058,2024-02-22 05:51:00,Belleza,Maquillaje,185.92,5,929.6,Criptomoneda,"Ciudad 48, País 6",PC,Referido,5,No,5
+80,5511,2024-01-18 02:40:00,Electrónica,Teclado,87.4,4,349.6,Transferencia bancaria,"Ciudad 22, País 7",Móvil,Pago,3,No,5
+81,2403,2024-01-30 11:08:00,Electrónica,Smartphone,34.8,3,104.4,Transferencia bancaria,"Ciudad 43, País 8",Móvil,Referido,9,No,3
+82,1544,2024-02-06 13:02:00,Juguetes,Carro de juguete,212.98,2,425.96,Transferencia bancaria,"Ciudad 15, País 3",Tablet,Referido,12,No,5
+83,6713,2024-03-01 02:54:00,Juguetes,LEGO,48.97,1,48.97,Transferencia bancaria,"Ciudad 50, País 4",PC,Redes Sociales,9,Sí,3
+84,2597,2024-01-31 15:15:00,Ropa,Camisa,175.38,5,876.9,Tarjeta de crédito,"Ciudad 39, País 2",Móvil,Referido,18,Sí,2
+85,9447,2024-02-10 12:39:00,Juguetes,LEGO,215.13,1,215.13,Criptomoneda,"Ciudad 42, País 3",PC,Redes Sociales,19,Sí,2
+86,5331,2024-02-02 21:31:00,Ropa,Zapatos,332.9,3,998.7,Transferencia bancaria,"Ciudad 36, País 2",PC,Referido,2,No,1
+87,7672,2024-01-02 15:53:00,Deportes,Raqueta,261.79,3,785.37,Transferencia bancaria,"Ciudad 4, País 5",Tablet,Pago,18,No,5
+88,9311,2024-02-19 16:09:00,Hogar,Silla,41.81,3,125.43,Tarjeta de crédito,"Ciudad 4, País 7",Tablet,Orgánico,2,Sí,3
+89,3910,2024-01-18 04:37:00,Juguetes,Rompecabezas,49.91,2,99.82,PayPal,"Ciudad 7, País 3",Tablet,Orgánico,9,Sí,2
+90,9823,2024-02-15 03:00:00,Electrónica,Monitor,38.95,1,38.95,Criptomoneda,"Ciudad 39, País 9",Tablet,Pago,16,Sí,2
+91,6002,2024-02-06 21:20:00,Deportes,Casco,357.12,5,1785.6,Transferencia bancaria,"Ciudad 40, País 4",PC,Referido,7,No,4
+92,8278,2024-01-06 04:41:00,Electrónica,Auriculares,294.0,1,294.0,Criptomoneda,"Ciudad 38, País 3",PC,Pago,24,Sí,4
+93,9908,2024-02-26 06:49:00,Deportes,Raqueta,213.81,2,427.62,Transferencia bancaria,"Ciudad 40, País 5",Móvil,Redes Sociales,4,No,5
+94,3530,2024-02-21 15:52:00,Deportes,Bicicleta,10.0,4,40.0,Transferencia bancaria,"Ciudad 28, País 10",Móvil,Pago,18,No,5
+95,9518,2024-02-12 17:48:00,Hogar,Silla,238.31,4,953.24,PayPal,"Ciudad 37, País 5",PC,Redes Sociales,28,Sí,5
+96,2734,2024-02-26 08:47:00,Deportes,Bicicleta,474.37,5,2371.85,Tarjeta de crédito,"Ciudad 11, País 10",PC,Referido,10,No,2
+97,7593,2024-02-10 16:09:00,Electrónica,Monitor,105.26,2,210.52,Criptomoneda,"Ciudad 33, País 5",PC,Orgánico,21,Sí,2
+98,8495,2024-03-01 14:56:00,Ropa,Gorra,124.6,3,373.8,Criptomoneda,"Ciudad 43, País 8",Tablet,Orgánico,14,No,1
+99,3312,2024-02-16 12:57:00,Ropa,Camisa,62.94,5,314.7,Tarjeta de crédito,"Ciudad 20, País 8",PC,Redes Sociales,5,Sí,3
+100,9246,2024-01-03 10:31:00,Belleza,Shampoo,145.17,5,725.85,PayPal,"Ciudad 20, País 2",Móvil,Orgánico,18,No,3
+101,8515,2024-02-21 17:42:00,Ropa,Pantalón,323.23,5,1616.15,Transferencia bancaria,"Ciudad 8, País 10",Móvil,Referido,30,No,1
+102,6811,2024-01-07 13:52:00,Ropa,Chaqueta,88.0,4,352.0,PayPal,"Ciudad 43, País 6",Móvil,Referido,5,No,5
+103,1370,2024-01-20 22:00:00,Deportes,Raqueta,208.11,3,624.33,PayPal,"Ciudad 24, País 3",Móvil,Orgánico,11,No,5
+104,1588,2024-01-22 10:31:00,Juguetes,Rompecabezas,115.01,4,460.04,Transferencia bancaria,"Ciudad 50, País 4",Móvil,Redes Sociales,26,No,5
+105,5336,2024-01-29 19:01:00,Belleza,Maquillaje,40.5,4,162.0,Tarjeta de crédito,"Ciudad 26, País 4",PC,Orgánico,14,No,4
+106,7245,2024-01-18 11:03:00,Belleza,Crema,64.95,3,194.85,Transferencia bancaria,"Ciudad 47, País 4",Móvil,Redes Sociales,13,No,3
+107,9472,2024-02-04 16:15:00,Hogar,Lámpara,461.36,5,2306.8,Criptomoneda,"Ciudad 45, País 8",Tablet,Referido,25,Sí,5
+108,2708,2024-01-03 10:55:00,Ropa,Pantalón,230.62,1,230.62,Tarjeta de crédito,"Ciudad 50, País 4",PC,Referido,4,No,5
+109,1596,2024-02-05 03:13:00,Electrónica,Auriculares,230.66,2,461.32,PayPal,"Ciudad 25, País 4",Tablet,Redes Sociales,23,No,2
+110,5161,2024-01-29 12:58:00,Deportes,Bicicleta,241.57,1,241.57,Criptomoneda,"Ciudad 28, País 9",Tablet,Pago,24,No,3
+111,8175,2024-01-26 23:19:00,Deportes,Casco,319.91,1,319.91,Tarjeta de crédito,"Ciudad 38, País 6",PC,Orgánico,12,Sí,3
+112,5382,2024-02-06 12:40:00,Deportes,Raqueta,241.96,1,241.96,Tarjeta de crédito,"Ciudad 11, País 10",PC,Referido,21,Sí,2
+113,9523,2024-02-15 23:23:00,Ropa,Gorra,466.96,5,2334.8,PayPal,"Ciudad 15, País 2",PC,Orgánico,23,Sí,4
+114,5645,2024-02-08 21:04:00,Hogar,Mesa,312.8,2,625.6,Tarjeta de crédito,"Ciudad 23, País 6",Tablet,Redes Sociales,23,Sí,4
+115,9202,2024-02-06 20:11:00,Belleza,Crema,184.17,3,552.51,PayPal,"Ciudad 5, País 6",Tablet,Orgánico,4,Sí,3
+116,7515,2024-02-07 15:12:00,Ropa,Gorra,203.8,2,407.6,Tarjeta de crédito,"Ciudad 15, País 3",Móvil,Referido,18,Sí,5
+117,1887,2024-02-29 14:27:00,Hogar,Silla,395.8,2,791.6,Transferencia bancaria,"Ciudad 37, País 1",Móvil,Referido,13,Sí,2
+118,6733,2024-01-19 00:12:00,Hogar,Silla,149.19,4,596.76,Criptomoneda,"Ciudad 26, País 6",Tablet,Pago,2,Sí,3
+119,4850,2024-01-07 06:58:00,Electrónica,Smartphone,192.13,4,768.52,Criptomoneda,"Ciudad 44, País 3",PC,Redes Sociales,16,No,2
+120,2917,2024-01-01 20:16:00,Belleza,Maquillaje,146.35,4,585.4,Tarjeta de crédito,"Ciudad 9, País 9",Móvil,Referido,16,No,3
+121,3331,2024-03-01 22:31:00,Hogar,Silla,360.38,1,360.38,Tarjeta de crédito,"Ciudad 15, País 1",PC,Redes Sociales,21,Sí,2
+122,6986,2024-02-07 02:54:00,Hogar,Sofá,379.96,2,759.92,PayPal,"Ciudad 33, País 6",Móvil,Redes Sociales,14,Sí,5
+123,8029,2024-02-29 00:35:00,Electrónica,Laptop,305.29,5,1526.45,Transferencia bancaria,"Ciudad 21, País 4",PC,Referido,19,No,1
+124,9310,2024-02-23 16:18:00,Deportes,Balón,156.65,5,783.25,PayPal,"Ciudad 28, País 1",Tablet,Orgánico,7,Sí,5
+125,9250,2024-02-07 21:14:00,Electrónica,Teclado,32.14,5,160.7,PayPal,"Ciudad 8, País 3",Tablet,Pago,18,Sí,1
+126,3691,2024-02-02 17:23:00,Ropa,Chaqueta,32.95,3,98.85,PayPal,"Ciudad 33, País 1",Tablet,Pago,3,Sí,1
+127,4840,2024-02-17 19:10:00,Ropa,Gorra,132.26,4,529.04,PayPal,"Ciudad 16, País 4",Móvil,Redes Sociales,12,No,5
+128,8931,2024-02-07 13:00:00,Ropa,Chaqueta,170.24,3,510.72,Criptomoneda,"Ciudad 36, País 3",Tablet,Redes Sociales,5,No,2
+129,8681,2024-01-05 03:32:00,Hogar,Sofá,447.81,3,1343.43,PayPal,"Ciudad 44, País 8",Tablet,Redes Sociales,13,No,3
+130,8190,2024-01-31 19:38:00,Hogar,Silla,404.18,3,1212.54,Criptomoneda,"Ciudad 5, País 4",Móvil,Redes Sociales,9,Sí,5
+131,8232,2024-02-17 12:42:00,Ropa,Gorra,396.93,3,1190.79,PayPal,"Ciudad 40, País 1",Tablet,Referido,5,No,2
+132,6370,2024-02-06 15:17:00,Hogar,Sofá,473.78,1,473.78,Criptomoneda,"Ciudad 14, País 4",PC,Pago,30,Sí,4
+133,3420,2024-02-28 06:00:00,Electrónica,Teclado,145.58,3,436.74,Transferencia bancaria,"Ciudad 6, País 7",Tablet,Redes Sociales,21,No,1
+134,5755,2024-02-16 13:20:00,Juguetes,Rompecabezas,299.67,2,599.34,Criptomoneda,"Ciudad 16, País 2",Móvil,Orgánico,9,Sí,1
+135,5755,2024-01-25 07:44:00,Juguetes,Muñeca,345.06,1,345.06,Transferencia bancaria,"Ciudad 6, País 7",Tablet,Referido,29,Sí,5
+136,6430,2024-01-04 13:58:00,Belleza,Maquillaje,356.21,5,1781.05,Tarjeta de crédito,"Ciudad 7, País 7",PC,Orgánico,5,No,4
+137,1093,2024-02-23 04:06:00,Juguetes,Peluche,442.58,2,885.16,Criptomoneda,"Ciudad 32, País 8",PC,Pago,14,Sí,4
+138,6870,2024-01-01 13:09:00,Belleza,Perfume,370.46,5,1852.3,Transferencia bancaria,"Ciudad 41, País 5",PC,Pago,4,No,5
+139,9345,2024-03-01 15:02:00,Juguetes,Peluche,255.0,3,765.0,Tarjeta de crédito,"Ciudad 41, País 8",PC,Referido,9,No,3
+140,2119,2024-01-23 20:55:00,Electrónica,Smartphone,473.74,3,1421.22,Criptomoneda,"Ciudad 49, País 6",Móvil,Orgánico,7,Sí,5
+141,8341,2024-01-01 17:15:00,Belleza,Shampoo,224.26,1,224.26,PayPal,"Ciudad 42, País 10",PC,Pago,8,Sí,3
+142,4577,2024-01-09 18:12:00,Deportes,Raqueta,460.43,2,920.86,Tarjeta de crédito,"Ciudad 50, País 1",Móvil,Orgánico,22,No,3
+143,6363,2024-01-01 10:42:00,Deportes,Balón,96.69,5,483.45,Transferencia bancaria,"Ciudad 24, País 8",Móvil,Pago,3,No,1
+144,7563,2024-01-04 07:55:00,Hogar,Mesa,440.09,2,880.18,PayPal,"Ciudad 26, País 2",PC,Pago,9,Sí,2
+145,1030,2024-01-31 21:00:00,Hogar,Sofá,468.92,1,468.92,Criptomoneda,"Ciudad 36, País 6",Tablet,Referido,18,Sí,2
+146,6654,2024-02-28 03:43:00,Electrónica,Teclado,395.15,4,1580.6,Criptomoneda,"Ciudad 49, País 2",PC,Pago,6,No,2
+147,3902,2024-02-02 17:09:00,Juguetes,Carro de juguete,12.87,4,51.48,Tarjeta de crédito,"Ciudad 32, País 6",Móvil,Orgánico,7,Sí,1
+148,9949,2024-02-17 22:33:00,Belleza,Maquillaje,192.36,4,769.44,Criptomoneda,"Ciudad 17, País 9",Tablet,Referido,16,Sí,5
+149,7783,2024-01-16 17:46:00,Ropa,Zapatos,461.57,5,2307.85,Transferencia bancaria,"Ciudad 13, País 7",Móvil,Orgánico,6,Sí,4
+150,1917,2024-02-19 08:40:00,Hogar,Mesa,73.11,2,146.22,PayPal,"Ciudad 8, País 4",Tablet,Pago,2,No,4
+151,3608,2024-01-05 02:35:00,Deportes,Balón,11.37,1,11.37,Criptomoneda,"Ciudad 45, País 1",Tablet,Orgánico,3,Sí,5
+152,5079,2024-02-01 21:29:00,Ropa,Gorra,380.65,5,1903.25,PayPal,"Ciudad 45, País 1",PC,Redes Sociales,30,No,4
+153,1188,2024-01-27 16:08:00,Hogar,Silla,193.63,4,774.52,Transferencia bancaria,"Ciudad 15, País 1",Móvil,Pago,13,Sí,2
+154,1252,2024-02-23 14:14:00,Belleza,Afeitadora,205.98,3,617.94,Transferencia bancaria,"Ciudad 49, País 7",PC,Pago,11,No,2
+155,3436,2024-01-10 12:41:00,Ropa,Zapatos,80.01,3,240.03,Criptomoneda,"Ciudad 37, País 6",PC,Referido,22,Sí,2
+156,3194,2024-01-19 21:36:00,Belleza,Crema,80.4,1,80.4,Tarjeta de crédito,"Ciudad 26, País 7",Móvil,Pago,22,Sí,4
+157,5878,2024-01-22 09:03:00,Juguetes,Carro de juguete,75.82,1,75.82,PayPal,"Ciudad 16, País 5",Tablet,Referido,17,No,5
+158,1108,2024-01-16 00:22:00,Belleza,Afeitadora,142.7,5,713.5,Transferencia bancaria,"Ciudad 32, País 5",Tablet,Redes Sociales,24,Sí,3
+159,1228,2024-01-11 03:13:00,Juguetes,Carro de juguete,315.66,1,315.66,Transferencia bancaria,"Ciudad 18, País 2",Tablet,Redes Sociales,19,Sí,2
+160,3692,2024-01-22 16:48:00,Deportes,Casco,97.53,1,97.53,Criptomoneda,"Ciudad 15, País 5",PC,Redes Sociales,18,Sí,4
+161,6818,2024-02-01 19:43:00,Juguetes,Rompecabezas,71.66,5,358.3,Criptomoneda,"Ciudad 43, País 4",PC,Referido,25,No,1
+162,9581,2024-01-17 23:08:00,Ropa,Chaqueta,164.75,4,659.0,Criptomoneda,"Ciudad 9, País 7",Tablet,Referido,27,No,5
+163,3314,2024-02-10 16:46:00,Deportes,Balón,126.62,1,126.62,Criptomoneda,"Ciudad 16, País 5",Móvil,Orgánico,30,No,5
+164,6562,2024-03-01 19:51:00,Juguetes,Carro de juguete,103.06,5,515.3,Transferencia bancaria,"Ciudad 22, País 8",PC,Redes Sociales,13,No,2
+165,6845,2024-02-21 12:41:00,Deportes,Raqueta,345.08,5,1725.4,PayPal,"Ciudad 30, País 7",Tablet,Redes Sociales,17,No,3
+166,3077,2024-02-21 01:07:00,Hogar,Silla,345.75,1,345.75,Criptomoneda,"Ciudad 32, País 8",Tablet,Pago,11,Sí,5
+167,6939,2024-01-30 07:13:00,Belleza,Afeitadora,466.89,2,933.78,Transferencia bancaria,"Ciudad 7, País 10",PC,Redes Sociales,27,No,3
+168,4781,2024-01-31 17:38:00,Belleza,Perfume,171.78,3,515.34,Transferencia bancaria,"Ciudad 4, País 7",Tablet,Pago,1,Sí,4
+169,5894,2024-01-15 07:35:00,Juguetes,Rompecabezas,324.8,2,649.6,Tarjeta de crédito,"Ciudad 11, País 2",PC,Pago,23,No,4
+170,8535,2024-02-12 23:29:00,Ropa,Camisa,23.19,2,46.38,PayPal,"Ciudad 25, País 4",Móvil,Pago,8,Sí,4
+171,9626,2024-02-15 04:08:00,Belleza,Crema,337.58,3,1012.74,Transferencia bancaria,"Ciudad 46, País 1",Móvil,Pago,20,No,1
+172,2245,2024-01-22 03:29:00,Deportes,Bicicleta,222.16,4,888.64,PayPal,"Ciudad 39, País 1",PC,Redes Sociales,6,No,1
+173,8713,2024-01-14 22:37:00,Deportes,Pesas,201.71,4,806.84,Transferencia bancaria,"Ciudad 41, País 4",Móvil,Orgánico,22,No,5
+174,9456,2024-03-01 04:55:00,Belleza,Crema,297.08,2,594.16,PayPal,"Ciudad 28, País 3",PC,Orgánico,3,No,4
+175,5085,2024-01-13 15:57:00,Hogar,Silla,265.63,3,796.89,Transferencia bancaria,"Ciudad 39, País 9",Tablet,Pago,12,Sí,1
+176,9934,2024-01-16 08:58:00,Juguetes,Peluche,274.26,3,822.78,Tarjeta de crédito,"Ciudad 19, País 3",Tablet,Orgánico,2,Sí,4
+177,7396,2024-02-03 03:16:00,Ropa,Pantalón,120.76,1,120.76,Tarjeta de crédito,"Ciudad 34, País 5",PC,Redes Sociales,22,No,1
+178,5459,2024-02-05 15:48:00,Ropa,Zapatos,288.73,1,288.73,Transferencia bancaria,"Ciudad 46, País 3",PC,Orgánico,16,Sí,3
+179,9994,2024-01-14 04:03:00,Ropa,Pantalón,272.88,1,272.88,Tarjeta de crédito,"Ciudad 43, País 4",PC,Orgánico,17,No,2
+180,4633,2024-02-19 10:03:00,Juguetes,LEGO,77.59,4,310.36,Tarjeta de crédito,"Ciudad 25, País 9",PC,Orgánico,12,No,2
+181,5013,2024-03-01 02:36:00,Hogar,Sofá,42.21,4,168.84,PayPal,"Ciudad 41, País 7",PC,Orgánico,18,No,4
+182,7449,2024-01-11 14:32:00,Ropa,Zapatos,444.52,5,2222.6,Tarjeta de crédito,"Ciudad 30, País 3",Móvil,Redes Sociales,17,No,1
+183,6738,2024-01-05 21:33:00,Electrónica,Laptop,471.68,1,471.68,Transferencia bancaria,"Ciudad 39, País 1",PC,Referido,2,Sí,2
+184,8994,2024-02-08 12:20:00,Electrónica,Teclado,176.16,1,176.16,Tarjeta de crédito,"Ciudad 45, País 1",Móvil,Referido,15,Sí,1
+185,4843,2024-01-26 22:40:00,Belleza,Perfume,155.94,4,623.76,Criptomoneda,"Ciudad 34, País 9",Tablet,Pago,18,Sí,4
+186,1223,2024-02-17 12:47:00,Deportes,Bicicleta,120.94,4,483.76,Transferencia bancaria,"Ciudad 37, País 6",Móvil,Redes Sociales,4,No,5
+187,9807,2024-02-01 02:56:00,Hogar,Sofá,77.17,2,154.34,Transferencia bancaria,"Ciudad 16, País 9",Móvil,Referido,6,No,2
+188,1100,2024-01-20 04:42:00,Electrónica,Smartphone,411.42,2,822.84,PayPal,"Ciudad 2, País 4",Tablet,Orgánico,11,Sí,1
+189,3262,2024-02-24 17:48:00,Electrónica,Smartphone,439.61,1,439.61,Criptomoneda,"Ciudad 38, País 2",Móvil,Redes Sociales,13,Sí,4
+190,1418,2024-02-11 20:47:00,Hogar,Sofá,482.81,3,1448.43,Transferencia bancaria,"Ciudad 16, País 7",PC,Referido,4,No,3
+191,9579,2024-02-07 11:19:00,Deportes,Casco,218.62,1,218.62,Tarjeta de crédito,"Ciudad 30, País 1",PC,Pago,27,Sí,3
+192,9850,2024-01-11 11:44:00,Hogar,Silla,355.45,3,1066.35,Transferencia bancaria,"Ciudad 30, País 1",PC,Pago,9,Sí,1
+193,9934,2024-01-11 05:57:00,Belleza,Crema,118.86,4,475.44,Transferencia bancaria,"Ciudad 32, País 5",Móvil,Orgánico,16,Sí,4
+194,9727,2024-01-27 08:36:00,Deportes,Raqueta,21.49,1,21.49,Tarjeta de crédito,"Ciudad 26, País 2",PC,Pago,13,Sí,1
+195,4545,2024-01-21 20:28:00,Electrónica,Smartphone,356.33,5,1781.65,Tarjeta de crédito,"Ciudad 18, País 8",Móvil,Orgánico,22,Sí,2
+196,5238,2024-01-17 09:02:00,Belleza,Shampoo,130.6,3,391.8,Transferencia bancaria,"Ciudad 33, País 2",Tablet,Pago,11,Sí,4
+197,4638,2024-02-06 19:19:00,Electrónica,Laptop,157.42,4,629.68,PayPal,"Ciudad 24, País 4",Móvil,Pago,7,Sí,5
+198,8158,2024-01-01 18:45:00,Belleza,Maquillaje,455.57,3,1366.71,Tarjeta de crédito,"Ciudad 12, País 5",Móvil,Pago,14,No,1
+199,1390,2024-01-08 10:22:00,Deportes,Balón,241.77,4,967.08,PayPal,"Ciudad 5, País 9",PC,Pago,22,No,2
+200,6405,2024-01-02 20:13:00,Juguetes,Carro de juguete,486.53,5,2432.65,Criptomoneda,"Ciudad 36, País 8",PC,Redes Sociales,14,No,4
+201,3424,2024-02-04 10:16:00,Deportes,Pesas,415.19,2,830.38,Transferencia bancaria,"Ciudad 3, País 5",Tablet,Orgánico,2,No,2
+202,3115,2024-01-21 13:34:00,Ropa,Camisa,444.47,2,888.94,Criptomoneda,"Ciudad 47, País 7",PC,Redes Sociales,6,Sí,2
+203,6099,2024-02-12 08:37:00,Ropa,Camisa,442.66,1,442.66,Criptomoneda,"Ciudad 13, País 9",PC,Pago,5,Sí,3
+204,8964,2024-01-16 14:47:00,Electrónica,Laptop,439.49,1,439.49,PayPal,"Ciudad 47, País 3",PC,Referido,4,No,2
+205,4515,2024-01-23 18:07:00,Juguetes,Peluche,33.64,2,67.28,Tarjeta de crédito,"Ciudad 15, País 9",Tablet,Redes Sociales,6,Sí,4
+206,3104,2024-02-07 20:31:00,Electrónica,Laptop,436.49,2,872.98,Criptomoneda,"Ciudad 42, País 5",Móvil,Orgánico,18,No,1
+207,1115,2024-01-02 15:15:00,Ropa,Chaqueta,36.61,4,146.44,Criptomoneda,"Ciudad 24, País 3",Móvil,Orgánico,11,Sí,5
+208,4306,2024-01-22 16:36:00,Ropa,Gorra,356.62,1,356.62,Tarjeta de crédito,"Ciudad 48, País 1",PC,Redes Sociales,5,No,3
+209,2749,2024-01-22 05:56:00,Hogar,Silla,189.65,2,379.3,Tarjeta de crédito,"Ciudad 49, País 8",Tablet,Referido,22,Sí,2
+210,3006,2024-02-04 13:10:00,Electrónica,Monitor,463.95,5,2319.75,Transferencia bancaria,"Ciudad 5, País 8",PC,Pago,23,No,3
+211,5298,2024-01-18 02:12:00,Belleza,Perfume,281.18,5,1405.9,Transferencia bancaria,"Ciudad 45, País 3",Móvil,Orgánico,9,No,3
+212,9257,2024-01-14 19:45:00,Deportes,Bicicleta,462.58,5,2312.9,Transferencia bancaria,"Ciudad 28, País 9",Móvil,Referido,11,No,1
+213,4497,2024-01-06 18:52:00,Juguetes,Muñeca,134.23,5,671.15,Transferencia bancaria,"Ciudad 40, País 3",PC,Referido,18,Sí,3
+214,2583,2024-02-25 23:29:00,Ropa,Pantalón,245.88,4,983.52,Transferencia bancaria,"Ciudad 6, País 2",PC,Orgánico,12,Sí,3
+215,4185,2024-01-24 17:41:00,Juguetes,Muñeca,119.01,3,357.03,PayPal,"Ciudad 36, País 3",PC,Referido,13,Sí,3
+216,4898,2024-02-10 14:22:00,Deportes,Bicicleta,255.59,4,1022.36,Transferencia bancaria,"Ciudad 46, País 5",PC,Pago,29,No,3
+217,8052,2024-02-11 18:17:00,Electrónica,Smartphone,37.66,2,75.32,Tarjeta de crédito,"Ciudad 44, País 1",PC,Referido,19,Sí,2
+218,8972,2024-01-22 21:56:00,Hogar,Silla,178.23,1,178.23,Tarjeta de crédito,"Ciudad 8, País 5",Móvil,Pago,19,No,3
+219,2852,2024-01-28 18:06:00,Electrónica,Auriculares,336.12,2,672.24,Criptomoneda,"Ciudad 42, País 5",PC,Pago,9,Sí,2
+220,1319,2024-01-31 06:08:00,Deportes,Bicicleta,126.83,2,253.66,Criptomoneda,"Ciudad 48, País 1",PC,Referido,3,Sí,1
+221,4995,2024-01-13 06:18:00,Electrónica,Smartphone,177.92,5,889.6,Transferencia bancaria,"Ciudad 21, País 8",Tablet,Pago,8,No,3
+222,7363,2024-02-15 08:35:00,Juguetes,Rompecabezas,349.44,4,1397.76,Transferencia bancaria,"Ciudad 48, País 4",Móvil,Orgánico,19,No,3
+223,6454,2024-01-07 19:41:00,Electrónica,Laptop,417.16,4,1668.64,PayPal,"Ciudad 21, País 1",PC,Redes Sociales,6,Sí,1
+224,1781,2024-01-28 18:25:00,Juguetes,LEGO,357.04,2,714.08,Criptomoneda,"Ciudad 30, País 8",Tablet,Referido,30,No,2
+225,3054,2024-01-12 16:42:00,Hogar,Lámpara,329.48,3,988.44,Criptomoneda,"Ciudad 47, País 3",PC,Referido,18,No,5
+226,9014,2024-01-22 15:17:00,Electrónica,Monitor,384.5,3,1153.5,Tarjeta de crédito,"Ciudad 38, País 6",PC,Pago,5,No,4
+227,6893,2024-02-02 15:07:00,Belleza,Shampoo,380.53,2,761.06,Transferencia bancaria,"Ciudad 17, País 2",Tablet,Referido,15,No,5
+228,7955,2024-01-02 23:28:00,Electrónica,Auriculares,489.33,4,1957.32,Transferencia bancaria,"Ciudad 24, País 5",Móvil,Referido,2,Sí,3
+229,5871,2024-02-29 05:31:00,Juguetes,Peluche,482.89,5,2414.45,Transferencia bancaria,"Ciudad 8, País 4",Móvil,Orgánico,29,No,5
+230,3657,2024-01-14 19:15:00,Ropa,Camisa,66.62,2,133.24,PayPal,"Ciudad 22, País 2",PC,Orgánico,13,Sí,2
+231,8475,2024-02-26 20:25:00,Electrónica,Monitor,481.33,1,481.33,Transferencia bancaria,"Ciudad 41, País 1",Tablet,Orgánico,25,No,4
+232,8522,2024-02-06 15:07:00,Deportes,Bicicleta,189.82,4,759.28,Tarjeta de crédito,"Ciudad 12, País 3",Tablet,Pago,29,No,4
+233,4796,2024-01-25 09:00:00,Hogar,Lámpara,100.95,3,302.85,Tarjeta de crédito,"Ciudad 7, País 8",PC,Referido,28,Sí,1
+234,3407,2024-01-31 20:45:00,Juguetes,Muñeca,363.08,1,363.08,Transferencia bancaria,"Ciudad 6, País 4",Móvil,Pago,19,Sí,5
+235,5334,2024-02-26 02:58:00,Belleza,Crema,386.81,5,1934.05,Transferencia bancaria,"Ciudad 17, País 4",Móvil,Redes Sociales,12,Sí,2
+236,8933,2024-02-27 05:16:00,Electrónica,Teclado,461.72,2,923.44,Transferencia bancaria,"Ciudad 20, País 4",Móvil,Referido,25,No,2
+237,6548,2024-01-29 15:41:00,Deportes,Bicicleta,166.71,2,333.42,Criptomoneda,"Ciudad 2, País 5",Tablet,Redes Sociales,16,Sí,4
+238,9161,2024-01-06 01:44:00,Hogar,Silla,209.35,5,1046.75,PayPal,"Ciudad 36, País 7",Tablet,Pago,30,No,4
+239,8583,2024-02-15 03:18:00,Deportes,Casco,394.37,1,394.37,PayPal,"Ciudad 47, País 9",PC,Pago,20,Sí,1
+240,9415,2024-02-09 04:59:00,Juguetes,Carro de juguete,12.31,3,36.93,Tarjeta de crédito,"Ciudad 31, País 7",Móvil,Pago,24,No,4
+241,7150,2024-01-12 16:00:00,Belleza,Afeitadora,47.13,4,188.52,Tarjeta de crédito,"Ciudad 6, País 6",Móvil,Pago,21,Sí,4
+242,2456,2024-01-24 12:39:00,Hogar,Cafetera,474.75,2,949.5,PayPal,"Ciudad 28, País 2",Tablet,Referido,7,No,2
+243,5891,2024-01-07 05:29:00,Electrónica,Teclado,17.09,5,85.45,Criptomoneda,"Ciudad 7, País 1",Tablet,Pago,7,Sí,5
+244,7823,2024-01-04 17:50:00,Juguetes,Rompecabezas,115.06,2,230.12,Criptomoneda,"Ciudad 2, País 10",Tablet,Pago,16,No,5
+245,6916,2024-01-24 13:30:00,Hogar,Mesa,283.77,2,567.54,Transferencia bancaria,"Ciudad 14, País 2",PC,Redes Sociales,14,No,5
+246,1708,2024-02-10 06:57:00,Juguetes,LEGO,409.57,2,819.14,Criptomoneda,"Ciudad 39, País 4",Móvil,Pago,5,No,5
+247,1815,2024-02-10 14:07:00,Ropa,Camisa,188.63,4,754.52,Transferencia bancaria,"Ciudad 42, País 1",PC,Redes Sociales,15,No,1
+248,9826,2024-01-25 20:17:00,Belleza,Perfume,430.02,5,2150.1,Criptomoneda,"Ciudad 26, País 3",Tablet,Pago,26,Sí,5
+249,1200,2024-02-12 20:22:00,Belleza,Perfume,181.38,5,906.9,Tarjeta de crédito,"Ciudad 1, País 10",PC,Referido,3,Sí,3
+250,6991,2024-01-05 04:50:00,Hogar,Mesa,385.15,5,1925.75,Transferencia bancaria,"Ciudad 20, País 7",PC,Orgánico,16,Sí,2
+251,7281,2024-02-27 08:44:00,Belleza,Shampoo,209.61,1,209.61,Criptomoneda,"Ciudad 15, País 9",Tablet,Referido,11,Sí,3
+252,6777,2024-03-01 18:00:00,Belleza,Shampoo,477.47,5,2387.35,Criptomoneda,"Ciudad 48, País 3",Móvil,Pago,4,No,2
+253,4876,2024-01-05 16:44:00,Deportes,Casco,49.96,2,99.92,Tarjeta de crédito,"Ciudad 32, País 5",Tablet,Pago,2,No,1
+254,7424,2024-02-05 04:25:00,Ropa,Camisa,139.56,1,139.56,Transferencia bancaria,"Ciudad 34, País 10",Tablet,Orgánico,18,No,5
+255,6901,2024-02-12 07:15:00,Juguetes,Peluche,368.81,2,737.62,Tarjeta de crédito,"Ciudad 49, País 5",Tablet,Referido,29,Sí,4
+256,9087,2024-01-09 09:37:00,Ropa,Gorra,296.83,4,1187.32,Tarjeta de crédito,"Ciudad 16, País 9",Móvil,Pago,6,Sí,5
+257,1704,2024-02-21 12:00:00,Juguetes,Rompecabezas,22.07,4,88.28,Tarjeta de crédito,"Ciudad 22, País 2",PC,Referido,15,Sí,4
+258,9534,2024-02-28 08:00:00,Deportes,Raqueta,429.03,5,2145.15,Transferencia bancaria,"Ciudad 49, País 5",Móvil,Orgánico,13,No,4
+259,7507,2024-01-28 02:30:00,Juguetes,Peluche,458.68,5,2293.4,Criptomoneda,"Ciudad 20, País 5",Móvil,Pago,27,Sí,3
+260,8985,2024-01-20 18:54:00,Electrónica,Smartphone,261.91,4,1047.64,Criptomoneda,"Ciudad 24, País 10",Tablet,Redes Sociales,8,Sí,2
+261,1359,2024-02-15 15:13:00,Deportes,Pesas,292.2,5,1461.0,Tarjeta de crédito,"Ciudad 10, País 1",PC,Orgánico,21,Sí,3
+262,4772,2024-01-18 16:36:00,Deportes,Casco,30.47,1,30.47,PayPal,"Ciudad 45, País 10",Tablet,Referido,9,Sí,5
+263,1171,2024-01-13 22:06:00,Ropa,Camisa,435.99,1,435.99,Tarjeta de crédito,"Ciudad 37, País 1",PC,Pago,30,Sí,4
+264,2873,2024-02-14 11:28:00,Electrónica,Teclado,16.19,5,80.95,Tarjeta de crédito,"Ciudad 12, País 4",Móvil,Pago,25,Sí,5
+265,9501,2024-01-17 02:08:00,Ropa,Camisa,478.02,3,1434.06,Criptomoneda,"Ciudad 5, País 6",Móvil,Orgánico,4,Sí,3
+266,7229,2024-01-30 13:52:00,Hogar,Cafetera,87.41,4,349.64,Tarjeta de crédito,"Ciudad 29, País 10",Tablet,Referido,5,No,2
+267,7479,2024-02-29 10:51:00,Belleza,Afeitadora,419.48,3,1258.44,PayPal,"Ciudad 19, País 7",Móvil,Redes Sociales,20,No,4
+268,9728,2024-01-09 05:13:00,Belleza,Crema,175.79,1,175.79,Criptomoneda,"Ciudad 40, País 4",Tablet,Redes Sociales,23,Sí,1
+269,1030,2024-01-13 21:52:00,Electrónica,Laptop,153.3,1,153.3,Tarjeta de crédito,"Ciudad 22, País 9",Tablet,Redes Sociales,24,No,3
+270,2221,2024-01-21 15:12:00,Electrónica,Smartphone,343.52,3,1030.56,PayPal,"Ciudad 10, País 4",PC,Orgánico,17,Sí,3
+271,7295,2024-02-28 01:52:00,Electrónica,Laptop,192.4,4,769.6,PayPal,"Ciudad 45, País 7",Móvil,Pago,3,Sí,3
+272,2915,2024-01-16 00:07:00,Ropa,Gorra,287.84,3,863.52,Tarjeta de crédito,"Ciudad 35, País 5",PC,Redes Sociales,8,No,1
+273,5954,2024-02-18 13:22:00,Ropa,Gorra,348.19,5,1740.95,PayPal,"Ciudad 30, País 4",PC,Redes Sociales,28,Sí,5
+274,9994,2024-02-01 18:08:00,Juguetes,Carro de juguete,106.09,3,318.27,PayPal,"Ciudad 12, País 6",PC,Pago,9,Sí,2
+275,9602,2024-02-02 22:05:00,Ropa,Gorra,177.81,1,177.81,Criptomoneda,"Ciudad 50, País 4",Móvil,Referido,13,No,1
+276,9380,2024-02-27 21:33:00,Juguetes,Peluche,147.78,2,295.56,Transferencia bancaria,"Ciudad 30, País 10",PC,Redes Sociales,22,Sí,3
+277,8556,2024-01-12 11:34:00,Ropa,Chaqueta,336.03,1,336.03,Tarjeta de crédito,"Ciudad 33, País 5",PC,Orgánico,22,Sí,4
+278,8978,2024-01-01 09:01:00,Belleza,Perfume,412.85,2,825.7,PayPal,"Ciudad 6, País 2",PC,Pago,29,Sí,5
+279,9332,2024-02-15 21:22:00,Electrónica,Auriculares,452.35,2,904.7,PayPal,"Ciudad 49, País 6",Móvil,Referido,14,No,3
+280,8821,2024-02-27 12:54:00,Juguetes,Muñeca,498.97,1,498.97,PayPal,"Ciudad 32, País 4",Tablet,Redes Sociales,26,Sí,3
+281,1900,2024-01-24 09:05:00,Juguetes,Carro de juguete,201.53,5,1007.65,Tarjeta de crédito,"Ciudad 48, País 8",Móvil,Orgánico,9,No,3
+282,1694,2024-01-01 01:03:00,Ropa,Gorra,210.65,1,210.65,Tarjeta de crédito,"Ciudad 34, País 9",Móvil,Referido,14,Sí,1
+283,6511,2024-01-12 17:04:00,Hogar,Cafetera,146.8,1,146.8,Transferencia bancaria,"Ciudad 10, País 6",Móvil,Pago,7,No,2
+284,4986,2024-02-29 16:05:00,Hogar,Mesa,241.67,2,483.34,PayPal,"Ciudad 28, País 1",PC,Pago,11,No,3
+285,8142,2024-01-14 19:56:00,Ropa,Pantalón,155.67,2,311.34,Criptomoneda,"Ciudad 16, País 9",Móvil,Redes Sociales,12,Sí,4
+286,4228,2024-01-23 05:36:00,Ropa,Chaqueta,411.35,2,822.7,PayPal,"Ciudad 3, País 3",Tablet,Redes Sociales,1,Sí,1
+287,4970,2024-01-28 03:03:00,Electrónica,Monitor,317.66,2,635.32,Transferencia bancaria,"Ciudad 11, País 4",Tablet,Redes Sociales,28,Sí,4
+288,5079,2024-01-03 19:28:00,Belleza,Maquillaje,413.22,3,1239.66,Criptomoneda,"Ciudad 21, País 6",PC,Pago,29,No,1
+289,8862,2024-01-16 19:18:00,Ropa,Pantalón,107.29,4,429.16,Tarjeta de crédito,"Ciudad 34, País 6",PC,Pago,23,No,1
+290,4258,2024-02-26 02:46:00,Deportes,Pesas,92.71,5,463.55,Transferencia bancaria,"Ciudad 13, País 10",Móvil,Pago,1,Sí,3
+291,5890,2024-02-06 22:19:00,Juguetes,Muñeca,26.91,1,26.91,PayPal,"Ciudad 32, País 5",Móvil,Pago,9,Sí,5
+292,3279,2024-02-20 16:03:00,Belleza,Shampoo,288.36,1,288.36,Tarjeta de crédito,"Ciudad 26, País 5",Tablet,Orgánico,1,Sí,3
+293,4690,2024-02-21 17:02:00,Deportes,Bicicleta,284.99,3,854.97,Transferencia bancaria,"Ciudad 39, País 7",Móvil,Redes Sociales,13,Sí,5
+294,5537,2024-01-17 00:39:00,Deportes,Balón,127.33,3,381.99,PayPal,"Ciudad 35, País 9",Tablet,Pago,10,Sí,4
+295,9446,2024-02-08 17:00:00,Ropa,Chaqueta,433.55,3,1300.65,Tarjeta de crédito,"Ciudad 17, País 1",Tablet,Pago,20,No,5
+296,5496,2024-01-14 12:25:00,Electrónica,Laptop,26.83,1,26.83,PayPal,"Ciudad 33, País 3",PC,Redes Sociales,20,Sí,1
+297,7124,2024-02-17 09:43:00,Hogar,Cafetera,154.2,1,154.2,Transferencia bancaria,"Ciudad 5, País 6",PC,Pago,16,No,4
+298,8875,2024-02-01 05:17:00,Hogar,Mesa,381.63,2,763.26,PayPal,"Ciudad 36, País 7",Tablet,Pago,24,No,2
+299,3337,2024-02-28 03:08:00,Electrónica,Laptop,100.77,4,403.08,Transferencia bancaria,"Ciudad 37, País 8",Tablet,Pago,25,No,5
+300,1229,2024-01-09 00:28:00,Electrónica,Teclado,160.95,5,804.75,PayPal,"Ciudad 2, País 6",Móvil,Redes Sociales,21,No,1
+301,1521,2024-01-18 20:20:00,Hogar,Lámpara,56.78,5,283.9,Criptomoneda,"Ciudad 19, País 5",Móvil,Redes Sociales,20,No,4
+302,8559,2024-01-20 01:22:00,Belleza,Shampoo,377.69,2,755.38,PayPal,"Ciudad 3, País 10",Tablet,Orgánico,1,Sí,4
+303,8919,2024-01-24 08:05:00,Juguetes,Carro de juguete,285.28,3,855.84,Criptomoneda,"Ciudad 40, País 3",PC,Redes Sociales,6,Sí,2
+304,8383,2024-02-28 01:55:00,Ropa,Chaqueta,183.21,4,732.84,Tarjeta de crédito,"Ciudad 3, País 5",Tablet,Orgánico,21,No,1
+305,4684,2024-02-25 03:43:00,Ropa,Camisa,158.87,2,317.74,Transferencia bancaria,"Ciudad 22, País 9",Móvil,Orgánico,26,No,4
+306,3624,2024-01-07 13:45:00,Electrónica,Smartphone,214.89,4,859.56,PayPal,"Ciudad 46, País 9",PC,Pago,10,No,2
+307,3429,2024-01-13 01:48:00,Electrónica,Auriculares,261.3,4,1045.2,Transferencia bancaria,"Ciudad 37, País 1",PC,Redes Sociales,7,No,1
+308,2031,2024-01-20 13:25:00,Hogar,Lámpara,227.82,2,455.64,Transferencia bancaria,"Ciudad 36, País 3",Móvil,Referido,18,Sí,3
+309,2740,2024-02-28 05:00:00,Belleza,Maquillaje,16.7,5,83.5,Criptomoneda,"Ciudad 43, País 1",PC,Redes Sociales,14,No,4
+310,6070,2024-02-01 23:24:00,Electrónica,Monitor,465.34,4,1861.36,Transferencia bancaria,"Ciudad 37, País 9",Tablet,Redes Sociales,28,Sí,4
+311,9646,2024-02-19 23:36:00,Ropa,Pantalón,5.98,5,29.9,Tarjeta de crédito,"Ciudad 6, País 2",Tablet,Pago,30,No,2
+312,1190,2024-02-27 11:10:00,Juguetes,Muñeca,221.07,2,442.14,PayPal,"Ciudad 12, País 8",PC,Pago,11,No,1
+313,6097,2024-01-09 14:24:00,Belleza,Shampoo,210.39,3,631.17,PayPal,"Ciudad 14, País 4",Tablet,Referido,27,No,2
+314,1173,2024-01-28 06:57:00,Deportes,Bicicleta,402.9,3,1208.7,Criptomoneda,"Ciudad 48, País 10",PC,Referido,13,Sí,2
+315,7724,2024-02-14 17:02:00,Juguetes,Peluche,264.77,4,1059.08,Tarjeta de crédito,"Ciudad 42, País 9",Tablet,Pago,30,Sí,2
+316,7226,2024-02-24 18:58:00,Juguetes,LEGO,487.73,5,2438.65,PayPal,"Ciudad 14, País 4",PC,Redes Sociales,17,Sí,4
+317,8308,2024-02-18 21:45:00,Hogar,Cafetera,388.4,1,388.4,PayPal,"Ciudad 46, País 4",PC,Orgánico,27,Sí,2
+318,9343,2024-01-30 18:38:00,Juguetes,Carro de juguete,284.14,1,284.14,Criptomoneda,"Ciudad 25, País 1",PC,Orgánico,11,Sí,3
+319,1946,2024-01-17 09:35:00,Ropa,Camisa,345.28,1,345.28,PayPal,"Ciudad 40, País 4",Tablet,Pago,9,No,4
+320,1981,2024-02-17 05:14:00,Deportes,Bicicleta,419.01,2,838.02,PayPal,"Ciudad 47, País 2",PC,Redes Sociales,12,Sí,2
+321,5481,2024-02-28 15:05:00,Electrónica,Auriculares,228.42,2,456.84,Criptomoneda,"Ciudad 45, País 8",Móvil,Orgánico,5,Sí,5
+322,3703,2024-02-29 04:14:00,Electrónica,Smartphone,244.81,5,1224.05,Tarjeta de crédito,"Ciudad 20, País 10",Móvil,Referido,24,No,2
+323,7569,2024-01-13 05:43:00,Juguetes,Peluche,442.62,5,2213.1,Transferencia bancaria,"Ciudad 49, País 8",Móvil,Pago,22,Sí,5
+324,1872,2024-01-27 08:45:00,Juguetes,Muñeca,311.1,1,311.1,PayPal,"Ciudad 34, País 7",Móvil,Orgánico,30,No,2
+325,1487,2024-02-17 09:38:00,Belleza,Maquillaje,467.18,4,1868.72,Transferencia bancaria,"Ciudad 8, País 10",PC,Orgánico,27,Sí,4
+326,1792,2024-02-14 16:24:00,Ropa,Pantalón,177.28,5,886.4,Tarjeta de crédito,"Ciudad 28, País 10",PC,Redes Sociales,9,No,5
+327,2582,2024-01-11 16:45:00,Electrónica,Teclado,457.53,3,1372.59,PayPal,"Ciudad 50, País 3",PC,Pago,6,No,4
+328,8223,2024-02-05 16:01:00,Ropa,Gorra,316.44,4,1265.76,Transferencia bancaria,"Ciudad 39, País 4",PC,Orgánico,13,Sí,5
+329,7035,2024-02-03 03:16:00,Electrónica,Laptop,176.26,2,352.52,Transferencia bancaria,"Ciudad 10, País 9",PC,Referido,18,No,3
+330,9183,2024-02-22 19:34:00,Electrónica,Smartphone,256.03,2,512.06,Tarjeta de crédito,"Ciudad 32, País 6",Tablet,Orgánico,24,No,3
+331,5704,2024-01-21 05:44:00,Juguetes,Peluche,353.52,2,707.04,PayPal,"Ciudad 5, País 5",Móvil,Redes Sociales,13,No,3
+332,3671,2024-02-17 15:04:00,Ropa,Pantalón,128.12,1,128.12,Tarjeta de crédito,"Ciudad 1, País 2",PC,Pago,15,Sí,4
+333,7821,2024-01-18 10:01:00,Electrónica,Laptop,439.07,1,439.07,Criptomoneda,"Ciudad 31, País 10",Tablet,Pago,30,Sí,5
+334,6129,2024-01-09 11:44:00,Hogar,Silla,417.07,2,834.14,PayPal,"Ciudad 28, País 8",Tablet,Pago,18,Sí,3
+335,3444,2024-01-24 03:26:00,Hogar,Mesa,171.08,1,171.08,PayPal,"Ciudad 47, País 4",Móvil,Referido,18,Sí,1
+336,8417,2024-01-26 08:43:00,Deportes,Pesas,164.27,2,328.54,Transferencia bancaria,"Ciudad 42, País 1",PC,Redes Sociales,6,Sí,1
+337,1075,2024-02-07 14:01:00,Deportes,Pesas,162.2,2,324.4,PayPal,"Ciudad 36, País 6",Móvil,Pago,29,No,1
+338,6993,2024-01-12 16:50:00,Ropa,Chaqueta,496.06,1,496.06,Transferencia bancaria,"Ciudad 27, País 10",Móvil,Pago,8,Sí,2
+339,5725,2024-02-05 20:32:00,Electrónica,Smartphone,346.03,5,1730.15,Tarjeta de crédito,"Ciudad 23, País 7",PC,Redes Sociales,5,No,2
+340,8588,2024-01-13 19:32:00,Ropa,Zapatos,377.44,1,377.44,Criptomoneda,"Ciudad 23, País 5",Tablet,Referido,2,No,3
+341,7004,2024-02-02 06:10:00,Electrónica,Teclado,25.67,5,128.35,Tarjeta de crédito,"Ciudad 12, País 6",PC,Orgánico,9,Sí,4
+342,8614,2024-01-26 22:40:00,Hogar,Lámpara,99.96,4,399.84,Transferencia bancaria,"Ciudad 21, País 10",PC,Pago,3,No,2
+343,2892,2024-01-13 17:09:00,Belleza,Afeitadora,125.09,3,375.27,PayPal,"Ciudad 33, País 8",Tablet,Referido,1,No,1
+344,7237,2024-02-04 20:25:00,Ropa,Camisa,162.76,4,651.04,Transferencia bancaria,"Ciudad 42, País 2",Tablet,Redes Sociales,9,Sí,1
+345,9905,2024-01-31 07:06:00,Juguetes,Peluche,283.81,1,283.81,Tarjeta de crédito,"Ciudad 1, País 4",PC,Referido,8,No,2
+346,9200,2024-01-08 06:18:00,Ropa,Gorra,162.48,5,812.4,Tarjeta de crédito,"Ciudad 41, País 2",Tablet,Referido,23,Sí,4
+347,8844,2024-02-18 19:08:00,Hogar,Cafetera,374.35,3,1123.05,Tarjeta de crédito,"Ciudad 45, País 1",PC,Pago,22,Sí,1
+348,7079,2024-01-11 15:38:00,Hogar,Silla,78.92,5,394.6,Transferencia bancaria,"Ciudad 23, País 6",Tablet,Pago,23,No,4
+349,3321,2024-02-02 20:33:00,Electrónica,Laptop,246.1,3,738.3,Criptomoneda,"Ciudad 5, País 6",Tablet,Referido,2,No,1
+350,3340,2024-01-23 05:08:00,Hogar,Lámpara,266.36,2,532.72,Transferencia bancaria,"Ciudad 38, País 2",Tablet,Referido,14,Sí,3
+351,6630,2024-01-22 21:02:00,Hogar,Mesa,399.71,4,1598.84,Tarjeta de crédito,"Ciudad 32, País 4",PC,Referido,2,No,5
+352,8126,2024-02-10 21:11:00,Deportes,Pesas,121.72,5,608.6,Criptomoneda,"Ciudad 21, País 4",Tablet,Redes Sociales,25,No,2
+353,4672,2024-02-01 14:14:00,Ropa,Gorra,305.46,2,610.92,Criptomoneda,"Ciudad 18, País 7",Móvil,Pago,27,No,3
+354,9227,2024-02-09 03:06:00,Electrónica,Auriculares,101.85,4,407.4,Criptomoneda,"Ciudad 16, País 10",Tablet,Orgánico,20,No,5
+355,1619,2024-02-17 09:57:00,Hogar,Sofá,73.09,3,219.27,Criptomoneda,"Ciudad 49, País 3",Tablet,Redes Sociales,9,Sí,1
+356,5136,2024-02-09 10:06:00,Ropa,Zapatos,390.28,1,390.28,Transferencia bancaria,"Ciudad 42, País 8",Tablet,Orgánico,15,Sí,2
+357,1615,2024-02-19 02:48:00,Hogar,Cafetera,15.78,3,47.34,Criptomoneda,"Ciudad 27, País 10",PC,Orgánico,5,Sí,3
+358,4302,2024-01-24 00:42:00,Ropa,Pantalón,58.1,2,116.2,PayPal,"Ciudad 48, País 5",PC,Redes Sociales,7,Sí,1
+359,9182,2024-01-07 11:09:00,Electrónica,Teclado,344.77,5,1723.85,Tarjeta de crédito,"Ciudad 44, País 2",Tablet,Pago,11,Sí,1
+360,1577,2024-01-12 07:43:00,Deportes,Balón,277.23,5,1386.15,Criptomoneda,"Ciudad 40, País 9",Móvil,Redes Sociales,11,No,2
+361,6891,2024-02-26 13:35:00,Belleza,Maquillaje,341.26,2,682.52,Criptomoneda,"Ciudad 23, País 5",PC,Orgánico,8,No,3
+362,4930,2024-01-21 12:08:00,Electrónica,Teclado,42.09,5,210.45,PayPal,"Ciudad 3, País 5",Tablet,Redes Sociales,7,Sí,5
+363,7965,2024-02-13 16:33:00,Ropa,Chaqueta,196.93,3,590.79,PayPal,"Ciudad 24, País 6",Tablet,Pago,6,No,2
+364,1084,2024-01-15 03:08:00,Belleza,Crema,286.18,2,572.36,Transferencia bancaria,"Ciudad 9, País 9",Móvil,Pago,5,Sí,1
+365,6261,2024-02-21 04:37:00,Juguetes,Carro de juguete,474.83,5,2374.15,PayPal,"Ciudad 19, País 1",PC,Redes Sociales,8,Sí,1
+366,2033,2024-01-23 20:59:00,Hogar,Silla,210.47,2,420.94,PayPal,"Ciudad 28, País 8",PC,Referido,27,Sí,1
+367,4260,2024-02-04 13:04:00,Ropa,Pantalón,31.08,2,62.16,Criptomoneda,"Ciudad 39, País 6",Tablet,Orgánico,18,No,3
+368,8355,2024-01-20 11:45:00,Electrónica,Laptop,252.61,1,252.61,Criptomoneda,"Ciudad 26, País 6",Tablet,Orgánico,21,Sí,5
+369,7490,2024-02-14 21:25:00,Juguetes,Carro de juguete,351.13,1,351.13,PayPal,"Ciudad 17, País 4",Tablet,Referido,28,Sí,4
+370,8980,2024-01-07 20:03:00,Belleza,Shampoo,446.52,2,893.04,PayPal,"Ciudad 24, País 6",PC,Pago,18,No,3
+371,1540,2024-01-11 14:44:00,Electrónica,Monitor,60.69,4,242.76,Tarjeta de crédito,"Ciudad 45, País 10",Tablet,Redes Sociales,30,No,2
+372,1992,2024-01-29 03:35:00,Ropa,Gorra,401.82,1,401.82,Tarjeta de crédito,"Ciudad 6, País 7",PC,Redes Sociales,11,Sí,5
+373,8158,2024-01-12 13:00:00,Deportes,Pesas,404.52,5,2022.6,Tarjeta de crédito,"Ciudad 29, País 6",Móvil,Pago,10,No,2
+374,8460,2024-02-28 20:47:00,Belleza,Shampoo,355.67,2,711.34,Tarjeta de crédito,"Ciudad 18, País 3",Móvil,Referido,22,No,2
+375,4612,2024-01-01 05:15:00,Ropa,Chaqueta,399.67,3,1199.01,Tarjeta de crédito,"Ciudad 19, País 7",Tablet,Redes Sociales,11,No,3
+376,8021,2024-01-10 00:59:00,Hogar,Sofá,193.28,4,773.12,Criptomoneda,"Ciudad 37, País 5",Móvil,Pago,26,Sí,5
+377,7817,2024-02-19 12:38:00,Hogar,Silla,401.46,2,802.92,Transferencia bancaria,"Ciudad 41, País 3",Móvil,Referido,21,No,2
+378,9338,2024-01-06 15:24:00,Deportes,Pesas,222.12,2,444.24,Transferencia bancaria,"Ciudad 12, País 8",Móvil,Redes Sociales,1,Sí,3
+379,1957,2024-01-21 04:34:00,Belleza,Maquillaje,69.82,5,349.1,Criptomoneda,"Ciudad 13, País 2",PC,Orgánico,17,No,3
+380,4111,2024-02-07 03:19:00,Hogar,Cafetera,82.45,5,412.25,Tarjeta de crédito,"Ciudad 34, País 5",Móvil,Pago,16,No,1
+381,2175,2024-01-15 16:32:00,Belleza,Maquillaje,444.58,2,889.16,Tarjeta de crédito,"Ciudad 18, País 9",PC,Orgánico,29,No,1
+382,1500,2024-02-13 02:53:00,Electrónica,Monitor,290.17,1,290.17,Transferencia bancaria,"Ciudad 38, País 1",Tablet,Orgánico,26,No,5
+383,7464,2024-01-23 17:33:00,Electrónica,Smartphone,194.17,3,582.51,Transferencia bancaria,"Ciudad 40, País 6",PC,Referido,1,No,5
+384,9446,2024-02-29 10:34:00,Ropa,Gorra,92.9,5,464.5,Criptomoneda,"Ciudad 45, País 8",Tablet,Orgánico,11,No,2
+385,5315,2024-02-15 19:55:00,Hogar,Sofá,285.34,4,1141.36,Tarjeta de crédito,"Ciudad 16, País 8",Tablet,Referido,17,No,4
+386,7448,2024-02-22 17:33:00,Hogar,Silla,329.15,3,987.45,Criptomoneda,"Ciudad 49, País 2",PC,Pago,26,No,5
+387,7962,2024-02-26 21:52:00,Hogar,Mesa,175.73,5,878.65,Tarjeta de crédito,"Ciudad 8, País 1",Móvil,Referido,28,No,4
+388,2448,2024-02-29 03:02:00,Ropa,Pantalón,22.35,2,44.7,PayPal,"Ciudad 33, País 4",PC,Pago,3,Sí,5
+389,7931,2024-02-15 17:07:00,Electrónica,Monitor,360.51,3,1081.53,Transferencia bancaria,"Ciudad 50, País 1",Móvil,Referido,14,No,5
+390,3472,2024-02-28 05:26:00,Juguetes,Muñeca,57.4,3,172.2,Transferencia bancaria,"Ciudad 10, País 1",Tablet,Referido,20,Sí,4
+391,6164,2024-01-24 00:17:00,Electrónica,Laptop,180.5,1,180.5,PayPal,"Ciudad 26, País 9",Móvil,Orgánico,3,Sí,3
+392,7300,2024-02-04 18:45:00,Ropa,Gorra,449.56,2,899.12,PayPal,"Ciudad 34, País 3",PC,Orgánico,8,No,5
+393,8467,2024-01-07 15:41:00,Belleza,Crema,446.93,5,2234.65,Transferencia bancaria,"Ciudad 7, País 8",Tablet,Orgánico,24,No,4
+394,4352,2024-02-20 13:19:00,Electrónica,Auriculares,424.74,3,1274.22,Tarjeta de crédito,"Ciudad 32, País 9",PC,Referido,5,Sí,5
+395,4481,2024-02-25 10:24:00,Electrónica,Teclado,12.0,1,12.0,Tarjeta de crédito,"Ciudad 22, País 1",Tablet,Redes Sociales,30,Sí,4
+396,5386,2024-02-13 07:54:00,Juguetes,Carro de juguete,47.82,4,191.28,Criptomoneda,"Ciudad 48, País 6",Móvil,Orgánico,19,Sí,1
+397,4115,2024-01-15 03:01:00,Deportes,Bicicleta,436.57,4,1746.28,Transferencia bancaria,"Ciudad 7, País 7",PC,Referido,19,No,1
+398,2616,2024-02-21 20:27:00,Deportes,Pesas,42.64,1,42.64,PayPal,"Ciudad 15, País 4",Tablet,Redes Sociales,15,Sí,3
+399,1088,2024-01-16 13:59:00,Deportes,Casco,117.21,4,468.84,Transferencia bancaria,"Ciudad 44, País 3",Tablet,Redes Sociales,23,Sí,5
+400,3640,2024-01-09 16:20:00,Ropa,Gorra,277.28,1,277.28,Criptomoneda,"Ciudad 38, País 6",Tablet,Orgánico,20,No,3
+401,2923,2024-01-15 02:20:00,Juguetes,Peluche,266.13,3,798.39,Criptomoneda,"Ciudad 28, País 5",PC,Redes Sociales,8,Sí,5
+402,2696,2024-02-03 10:43:00,Deportes,Raqueta,353.13,4,1412.52,Criptomoneda,"Ciudad 47, País 2",PC,Redes Sociales,6,Sí,1
+403,5000,2024-01-02 22:27:00,Hogar,Sofá,127.66,4,510.64,PayPal,"Ciudad 33, País 1",PC,Referido,1,No,1
+404,5794,2024-02-12 00:53:00,Ropa,Camisa,173.94,1,173.94,PayPal,"Ciudad 2, País 1",Tablet,Pago,22,Sí,5
+405,5637,2024-01-13 00:52:00,Deportes,Bicicleta,51.53,2,103.06,Tarjeta de crédito,"Ciudad 20, País 4",PC,Orgánico,5,No,1
+406,7685,2024-02-05 11:08:00,Ropa,Chaqueta,233.87,4,935.48,Criptomoneda,"Ciudad 30, País 4",PC,Pago,2,Sí,1
+407,1789,2024-01-18 21:08:00,Hogar,Cafetera,217.25,5,1086.25,Criptomoneda,"Ciudad 16, País 8",PC,Referido,17,Sí,5
+408,4342,2024-02-17 20:47:00,Ropa,Chaqueta,230.57,3,691.71,Criptomoneda,"Ciudad 49, País 2",PC,Pago,18,Sí,5
+409,1576,2024-01-04 20:20:00,Hogar,Mesa,228.92,2,457.84,Tarjeta de crédito,"Ciudad 35, País 4",Tablet,Redes Sociales,11,Sí,5
+410,4392,2024-02-25 06:07:00,Hogar,Silla,110.41,5,552.05,Transferencia bancaria,"Ciudad 1, País 3",Móvil,Redes Sociales,13,Sí,3
+411,4127,2024-01-03 10:59:00,Ropa,Zapatos,405.3,5,2026.5,Tarjeta de crédito,"Ciudad 16, País 5",Tablet,Referido,21,Sí,3
+412,3751,2024-01-19 13:05:00,Deportes,Balón,431.64,2,863.28,Criptomoneda,"Ciudad 25, País 3",Móvil,Orgánico,4,Sí,3
+413,1010,2024-02-21 09:37:00,Electrónica,Smartphone,40.17,4,160.68,Tarjeta de crédito,"Ciudad 34, País 9",PC,Pago,13,No,2
+414,9985,2024-02-26 23:44:00,Belleza,Shampoo,237.97,5,1189.85,Criptomoneda,"Ciudad 23, País 2",Móvil,Redes Sociales,19,No,1
+415,3439,2024-02-29 19:53:00,Electrónica,Teclado,448.87,3,1346.61,PayPal,"Ciudad 12, País 4",PC,Orgánico,11,No,5
+416,6039,2024-01-12 13:33:00,Hogar,Mesa,475.03,4,1900.12,Transferencia bancaria,"Ciudad 5, País 1",PC,Pago,24,Sí,4
+417,4223,2024-01-20 05:01:00,Deportes,Bicicleta,35.18,4,140.72,PayPal,"Ciudad 26, País 10",Tablet,Orgánico,2,No,4
+418,9128,2024-02-27 06:07:00,Deportes,Casco,36.99,4,147.96,Criptomoneda,"Ciudad 12, País 10",Móvil,Redes Sociales,19,Sí,5
+419,2211,2024-02-09 16:03:00,Juguetes,Muñeca,279.14,4,1116.56,PayPal,"Ciudad 42, País 9",PC,Redes Sociales,27,Sí,2
+420,6647,2024-02-28 00:38:00,Hogar,Silla,146.79,1,146.79,Transferencia bancaria,"Ciudad 2, País 3",PC,Pago,11,Sí,2
+421,9839,2024-02-17 16:29:00,Belleza,Crema,330.79,1,330.79,Criptomoneda,"Ciudad 2, País 7",PC,Referido,19,Sí,3
+422,7978,2024-01-22 21:15:00,Hogar,Sofá,20.76,4,83.04,Criptomoneda,"Ciudad 30, País 6",PC,Orgánico,7,Sí,1
+423,2600,2024-01-12 12:30:00,Juguetes,Peluche,461.93,3,1385.79,Transferencia bancaria,"Ciudad 27, País 7",Tablet,Pago,5,No,3
+424,5032,2024-01-13 12:06:00,Electrónica,Teclado,168.15,3,504.45,Tarjeta de crédito,"Ciudad 30, País 6",Tablet,Orgánico,29,Sí,1
+425,1669,2024-02-06 15:03:00,Belleza,Maquillaje,465.09,5,2325.45,Tarjeta de crédito,"Ciudad 17, País 3",PC,Referido,15,Sí,5
+426,1210,2024-01-28 01:50:00,Juguetes,LEGO,53.37,2,106.74,Criptomoneda,"Ciudad 5, País 5",PC,Orgánico,23,Sí,2
+427,3798,2024-01-10 16:55:00,Ropa,Camisa,117.16,3,351.48,Tarjeta de crédito,"Ciudad 19, País 9",Móvil,Redes Sociales,16,Sí,3
+428,2709,2024-02-03 23:40:00,Juguetes,Carro de juguete,206.66,3,619.98,Tarjeta de crédito,"Ciudad 2, País 3",PC,Orgánico,20,Sí,1
+429,1941,2024-02-15 08:13:00,Hogar,Lámpara,19.78,2,39.56,Transferencia bancaria,"Ciudad 3, País 9",Tablet,Pago,3,Sí,5
+430,6431,2024-01-08 21:31:00,Deportes,Bicicleta,200.97,2,401.94,Criptomoneda,"Ciudad 34, País 9",PC,Pago,4,Sí,4
+431,7284,2024-01-14 02:43:00,Hogar,Sofá,91.36,1,91.36,Transferencia bancaria,"Ciudad 28, País 8",Móvil,Orgánico,8,Sí,4
+432,4934,2024-01-03 13:13:00,Hogar,Lámpara,476.7,2,953.4,PayPal,"Ciudad 19, País 6",Móvil,Referido,24,Sí,4
+433,7956,2024-02-14 00:29:00,Deportes,Balón,247.53,3,742.59,PayPal,"Ciudad 28, País 9",Móvil,Referido,18,Sí,1
+434,5163,2024-01-18 12:19:00,Belleza,Afeitadora,58.06,3,174.18,PayPal,"Ciudad 42, País 7",PC,Orgánico,22,Sí,5
+435,3863,2024-02-26 02:56:00,Ropa,Gorra,437.56,3,1312.68,Criptomoneda,"Ciudad 16, País 4",Móvil,Pago,11,No,2
+436,5084,2024-01-11 01:58:00,Juguetes,Rompecabezas,288.99,5,1444.95,Criptomoneda,"Ciudad 42, País 6",Móvil,Orgánico,20,Sí,4
+437,4399,2024-01-25 06:21:00,Ropa,Gorra,346.81,4,1387.24,Criptomoneda,"Ciudad 17, País 9",Móvil,Referido,20,Sí,3
+438,9298,2024-03-01 18:42:00,Ropa,Camisa,200.85,3,602.55,Transferencia bancaria,"Ciudad 28, País 9",PC,Orgánico,26,No,1
+439,3550,2024-01-07 01:16:00,Electrónica,Monitor,446.11,5,2230.55,Criptomoneda,"Ciudad 48, País 8",Móvil,Orgánico,18,No,4
+440,6543,2024-02-26 19:14:00,Deportes,Balón,314.67,3,944.01,Tarjeta de crédito,"Ciudad 43, País 5",Tablet,Redes Sociales,14,Sí,5
+441,7695,2024-01-07 12:09:00,Hogar,Cafetera,150.46,1,150.46,Tarjeta de crédito,"Ciudad 28, País 4",Tablet,Orgánico,20,No,2
+442,5238,2024-01-18 02:32:00,Juguetes,Peluche,19.73,3,59.19,PayPal,"Ciudad 44, País 5",Móvil,Redes Sociales,12,Sí,2
+443,8989,2024-02-07 01:25:00,Ropa,Zapatos,295.46,2,590.92,Criptomoneda,"Ciudad 1, País 8",Móvil,Orgánico,1,Sí,2
+444,7343,2024-02-07 02:45:00,Hogar,Mesa,342.64,3,1027.92,PayPal,"Ciudad 27, País 8",Tablet,Referido,25,No,3
+445,6388,2024-02-01 16:07:00,Deportes,Balón,70.77,1,70.77,PayPal,"Ciudad 26, País 3",Tablet,Redes Sociales,21,No,5
+446,7857,2024-02-12 17:16:00,Ropa,Chaqueta,220.58,5,1102.9,Tarjeta de crédito,"Ciudad 42, País 6",Tablet,Referido,28,Sí,2
+447,9535,2024-02-16 15:25:00,Ropa,Pantalón,419.65,4,1678.6,Transferencia bancaria,"Ciudad 41, País 10",Móvil,Redes Sociales,7,Sí,2
+448,8499,2024-01-10 01:09:00,Deportes,Balón,366.59,2,733.18,Criptomoneda,"Ciudad 44, País 3",Tablet,Orgánico,16,No,2
+449,4769,2024-01-09 15:13:00,Ropa,Chaqueta,77.28,1,77.28,Tarjeta de crédito,"Ciudad 3, País 9",PC,Redes Sociales,30,No,3
+450,5073,2024-02-28 12:50:00,Belleza,Perfume,260.64,4,1042.56,Tarjeta de crédito,"Ciudad 46, País 8",PC,Redes Sociales,5,Sí,3
+451,2337,2024-01-22 15:47:00,Electrónica,Teclado,419.59,5,2097.95,Tarjeta de crédito,"Ciudad 13, País 10",PC,Redes Sociales,12,Sí,4
+452,4516,2024-01-29 19:42:00,Hogar,Silla,419.58,5,2097.9,Tarjeta de crédito,"Ciudad 44, País 8",Móvil,Referido,30,No,3
+453,8473,2024-02-16 00:18:00,Belleza,Maquillaje,318.58,5,1592.9,Transferencia bancaria,"Ciudad 16, País 7",Móvil,Pago,15,Sí,2
+454,2797,2024-02-27 05:48:00,Juguetes,Muñeca,275.27,4,1101.08,Criptomoneda,"Ciudad 30, País 5",Móvil,Pago,12,No,3
+455,3455,2024-01-22 10:59:00,Electrónica,Monitor,223.5,1,223.5,Transferencia bancaria,"Ciudad 26, País 7",Móvil,Orgánico,12,Sí,3
+456,5565,2024-02-07 13:01:00,Ropa,Pantalón,187.41,2,374.82,Transferencia bancaria,"Ciudad 48, País 4",Móvil,Redes Sociales,23,Sí,5
+457,9317,2024-01-22 10:07:00,Belleza,Perfume,58.64,5,293.2,Transferencia bancaria,"Ciudad 18, País 8",Móvil,Pago,26,No,1
+458,8944,2024-01-22 03:12:00,Juguetes,Peluche,201.25,3,603.75,Tarjeta de crédito,"Ciudad 38, País 2",PC,Orgánico,11,No,1
+459,8201,2024-02-23 22:14:00,Ropa,Zapatos,495.5,5,2477.5,Transferencia bancaria,"Ciudad 28, País 3",Móvil,Referido,1,No,1
+460,1513,2024-02-07 00:22:00,Hogar,Silla,89.62,5,448.1,Transferencia bancaria,"Ciudad 47, País 7",Tablet,Referido,11,Sí,2
+461,7317,2024-02-09 13:24:00,Ropa,Chaqueta,185.3,3,555.9,PayPal,"Ciudad 41, País 3",Tablet,Referido,16,Sí,4
+462,5779,2024-01-21 07:48:00,Ropa,Camisa,224.55,3,673.65,PayPal,"Ciudad 4, País 6",PC,Pago,7,No,2
+463,9714,2024-02-22 13:29:00,Juguetes,Muñeca,125.48,5,627.4,Tarjeta de crédito,"Ciudad 47, País 3",Tablet,Redes Sociales,3,No,1
+464,5071,2024-02-07 07:56:00,Deportes,Balón,335.87,2,671.74,Transferencia bancaria,"Ciudad 30, País 1",PC,Pago,11,No,4
+465,8484,2024-02-18 02:38:00,Hogar,Mesa,148.14,3,444.42,Transferencia bancaria,"Ciudad 24, País 1",Móvil,Redes Sociales,21,Sí,3
+466,6016,2024-01-20 16:35:00,Ropa,Gorra,315.08,3,945.24,Tarjeta de crédito,"Ciudad 45, País 10",PC,Orgánico,30,No,4
+467,6764,2024-01-16 13:24:00,Ropa,Camisa,222.97,5,1114.85,Criptomoneda,"Ciudad 17, País 8",PC,Orgánico,14,Sí,3
+468,7443,2024-02-15 03:27:00,Ropa,Zapatos,267.16,2,534.32,Criptomoneda,"Ciudad 20, País 2",Tablet,Pago,3,Sí,1
+469,3103,2024-01-29 02:13:00,Hogar,Lámpara,425.67,2,851.34,PayPal,"Ciudad 40, País 2",Móvil,Referido,18,No,3
+470,4346,2024-01-17 04:57:00,Belleza,Perfume,46.22,1,46.22,Transferencia bancaria,"Ciudad 41, País 1",Móvil,Orgánico,15,No,5
+471,5839,2024-02-17 07:15:00,Juguetes,Rompecabezas,19.46,1,19.46,PayPal,"Ciudad 45, País 5",Móvil,Pago,21,Sí,4
+472,5569,2024-01-02 21:32:00,Ropa,Zapatos,152.08,2,304.16,PayPal,"Ciudad 8, País 2",Tablet,Orgánico,21,Sí,4
+473,3822,2024-02-04 06:32:00,Deportes,Bicicleta,206.73,3,620.19,Transferencia bancaria,"Ciudad 40, País 2",Móvil,Referido,5,No,2
+474,9320,2024-02-15 11:56:00,Belleza,Afeitadora,405.93,3,1217.79,Criptomoneda,"Ciudad 40, País 7",Móvil,Referido,18,Sí,5
+475,9785,2024-02-02 11:22:00,Electrónica,Teclado,237.92,4,951.68,Criptomoneda,"Ciudad 11, País 4",PC,Orgánico,7,Sí,3
+476,3681,2024-01-19 11:53:00,Hogar,Mesa,102.52,1,102.52,Transferencia bancaria,"Ciudad 9, País 3",Móvil,Pago,13,Sí,1
+477,5291,2024-01-05 17:41:00,Deportes,Bicicleta,380.51,3,1141.53,PayPal,"Ciudad 45, País 10",Tablet,Pago,16,Sí,2
+478,1109,2024-01-17 06:36:00,Electrónica,Smartphone,247.59,5,1237.95,Tarjeta de crédito,"Ciudad 15, País 2",Móvil,Orgánico,22,No,4
+479,2093,2024-01-08 04:56:00,Ropa,Zapatos,204.4,2,408.8,Transferencia bancaria,"Ciudad 24, País 1",Tablet,Orgánico,24,No,5
+480,5915,2024-01-23 12:00:00,Electrónica,Monitor,249.26,3,747.78,Criptomoneda,"Ciudad 2, País 3",PC,Orgánico,22,Sí,4
+481,9508,2024-02-21 10:12:00,Juguetes,Peluche,109.46,1,109.46,Transferencia bancaria,"Ciudad 35, País 10",PC,Referido,21,Sí,5
+482,8877,2024-03-01 06:56:00,Deportes,Bicicleta,363.16,5,1815.8,Transferencia bancaria,"Ciudad 50, País 9",Móvil,Orgánico,18,Sí,4
+483,2097,2024-02-16 07:12:00,Deportes,Pesas,242.42,1,242.42,Criptomoneda,"Ciudad 29, País 7",Tablet,Orgánico,12,Sí,4
+484,5181,2024-01-17 22:03:00,Ropa,Pantalón,399.99,1,399.99,PayPal,"Ciudad 50, País 3",Móvil,Referido,12,No,2
+485,2133,2024-01-16 14:09:00,Electrónica,Auriculares,199.63,5,998.15,Tarjeta de crédito,"Ciudad 35, País 10",Tablet,Referido,15,No,1
+486,9221,2024-02-03 17:03:00,Hogar,Silla,186.19,3,558.57,Transferencia bancaria,"Ciudad 30, País 5",Móvil,Redes Sociales,11,Sí,1
+487,4436,2024-01-07 19:47:00,Belleza,Perfume,329.56,3,988.68,Criptomoneda,"Ciudad 8, País 6",Tablet,Referido,13,No,4
+488,7475,2024-01-27 06:21:00,Electrónica,Teclado,461.89,1,461.89,Tarjeta de crédito,"Ciudad 3, País 3",Móvil,Orgánico,19,Sí,4
+489,2382,2024-01-20 03:17:00,Juguetes,Carro de juguete,61.44,5,307.2,Criptomoneda,"Ciudad 28, País 7",PC,Pago,15,Sí,1
+490,6549,2024-01-07 00:51:00,Electrónica,Monitor,163.64,1,163.64,Criptomoneda,"Ciudad 2, País 3",Tablet,Pago,6,Sí,4
+491,6535,2024-01-11 21:26:00,Hogar,Mesa,18.38,4,73.52,Criptomoneda,"Ciudad 15, País 7",Móvil,Referido,5,No,5
+492,3555,2024-01-31 15:51:00,Ropa,Zapatos,258.08,5,1290.4,Criptomoneda,"Ciudad 1, País 7",Tablet,Redes Sociales,2,No,2
+493,6453,2024-01-07 16:09:00,Ropa,Chaqueta,302.52,5,1512.6,Transferencia bancaria,"Ciudad 23, País 6",Tablet,Redes Sociales,15,No,4
+494,3132,2024-01-06 07:02:00,Ropa,Zapatos,493.26,1,493.26,Transferencia bancaria,"Ciudad 32, País 6",PC,Referido,28,Sí,4
+495,3572,2024-02-19 22:44:00,Juguetes,Peluche,230.21,1,230.21,PayPal,"Ciudad 7, País 5",PC,Pago,28,Sí,2
+496,2567,2024-01-02 19:23:00,Hogar,Cafetera,433.89,3,1301.67,Tarjeta de crédito,"Ciudad 10, País 1",Tablet,Referido,7,No,1
+497,3060,2024-01-15 19:07:00,Deportes,Bicicleta,273.39,5,1366.95,Transferencia bancaria,"Ciudad 26, País 7",Móvil,Orgánico,17,No,3
+498,4731,2024-01-10 22:50:00,Hogar,Sofá,478.67,4,1914.68,Criptomoneda,"Ciudad 39, País 1",Móvil,Referido,6,No,5
+499,1550,2024-01-31 18:23:00,Deportes,Raqueta,13.24,1,13.24,Transferencia bancaria,"Ciudad 24, País 6",PC,Pago,25,Sí,4
+500,1537,2024-01-11 19:28:00,Juguetes,LEGO,105.83,4,423.32,PayPal,"Ciudad 47, País 5",PC,Referido,14,No,1
+501,1932,2024-02-18 17:53:00,Belleza,Crema,202.0,1,202.0,Transferencia bancaria,"Ciudad 34, País 4",Móvil,Orgánico,24,No,5
+502,7263,2024-01-02 09:32:00,Deportes,Bicicleta,106.42,4,425.68,Transferencia bancaria,"Ciudad 42, País 9",Móvil,Pago,24,No,5
+503,9677,2024-01-23 03:45:00,Ropa,Camisa,375.23,1,375.23,Criptomoneda,"Ciudad 30, País 3",Móvil,Orgánico,12,Sí,5
+504,3107,2024-01-17 18:05:00,Belleza,Maquillaje,210.2,4,840.8,Criptomoneda,"Ciudad 30, País 10",PC,Redes Sociales,15,No,4
+505,5297,2024-01-25 11:39:00,Hogar,Cafetera,59.19,5,295.95,Criptomoneda,"Ciudad 17, País 2",Tablet,Referido,13,No,5
+506,4706,2024-01-22 00:17:00,Belleza,Crema,378.49,3,1135.47,Transferencia bancaria,"Ciudad 31, País 4",Tablet,Pago,13,Sí,3
+507,3207,2024-02-13 00:31:00,Electrónica,Monitor,448.58,5,2242.9,Tarjeta de crédito,"Ciudad 26, País 10",Móvil,Redes Sociales,24,No,3
+508,4623,2024-01-07 18:52:00,Electrónica,Auriculares,493.88,1,493.88,PayPal,"Ciudad 28, País 7",Móvil,Redes Sociales,12,No,3
+509,9417,2024-01-31 20:23:00,Hogar,Sofá,146.2,2,292.4,PayPal,"Ciudad 11, País 9",Móvil,Referido,6,Sí,5
+510,2339,2024-02-07 22:37:00,Deportes,Casco,16.0,5,80.0,Tarjeta de crédito,"Ciudad 40, País 2",Móvil,Redes Sociales,3,Sí,4
+511,6453,2024-01-03 07:01:00,Deportes,Casco,21.33,2,42.66,Tarjeta de crédito,"Ciudad 16, País 2",Tablet,Referido,14,Sí,4
+512,5793,2024-02-14 14:36:00,Juguetes,Peluche,198.57,5,992.85,Transferencia bancaria,"Ciudad 45, País 9",PC,Redes Sociales,4,Sí,3
+513,8898,2024-02-10 09:55:00,Juguetes,Peluche,229.0,2,458.0,Criptomoneda,"Ciudad 9, País 8",Móvil,Orgánico,23,No,2
+514,6837,2024-01-19 18:30:00,Electrónica,Monitor,338.29,3,1014.87,Tarjeta de crédito,"Ciudad 13, País 10",PC,Redes Sociales,8,No,5
+515,6120,2024-02-27 21:13:00,Belleza,Maquillaje,369.83,4,1479.32,Criptomoneda,"Ciudad 7, País 5",PC,Orgánico,9,Sí,1
+516,1978,2024-02-26 10:13:00,Belleza,Maquillaje,465.63,3,1396.89,PayPal,"Ciudad 15, País 8",Tablet,Referido,11,Sí,1
+517,7824,2024-01-18 06:27:00,Deportes,Bicicleta,151.36,1,151.36,PayPal,"Ciudad 4, País 9",Tablet,Redes Sociales,26,No,5
+518,6521,2024-02-11 00:59:00,Juguetes,Rompecabezas,54.0,4,216.0,PayPal,"Ciudad 35, País 7",PC,Referido,28,Sí,1
+519,1402,2024-01-25 12:11:00,Hogar,Lámpara,74.46,4,297.84,Transferencia bancaria,"Ciudad 43, País 5",PC,Redes Sociales,10,No,2
+520,5677,2024-01-14 12:32:00,Electrónica,Monitor,62.48,4,249.92,Criptomoneda,"Ciudad 9, País 5",PC,Referido,8,No,2
+521,4945,2024-01-30 02:33:00,Juguetes,Muñeca,74.76,2,149.52,Tarjeta de crédito,"Ciudad 42, País 9",Móvil,Referido,14,Sí,1
+522,8291,2024-01-20 12:57:00,Belleza,Perfume,482.21,1,482.21,Transferencia bancaria,"Ciudad 31, País 10",Tablet,Referido,4,Sí,2
+523,6608,2024-02-21 10:08:00,Deportes,Bicicleta,71.05,3,213.15,PayPal,"Ciudad 6, País 10",Móvil,Pago,3,Sí,2
+524,8618,2024-01-25 08:47:00,Juguetes,Rompecabezas,85.04,3,255.12,PayPal,"Ciudad 15, País 2",PC,Pago,22,No,1
+525,3311,2024-01-13 07:45:00,Ropa,Camisa,180.49,2,360.98,Tarjeta de crédito,"Ciudad 22, País 1",Móvil,Orgánico,14,Sí,2
+526,2224,2024-01-16 03:13:00,Juguetes,Rompecabezas,169.97,5,849.85,Criptomoneda,"Ciudad 9, País 7",Tablet,Referido,24,Sí,5
+527,6542,2024-02-07 12:32:00,Deportes,Balón,203.47,4,813.88,Transferencia bancaria,"Ciudad 23, País 9",PC,Referido,4,Sí,3
+528,5122,2024-01-29 06:15:00,Electrónica,Monitor,297.27,2,594.54,Tarjeta de crédito,"Ciudad 20, País 5",PC,Redes Sociales,5,Sí,3
+529,3163,2024-01-10 10:22:00,Electrónica,Auriculares,365.28,5,1826.4,Tarjeta de crédito,"Ciudad 3, País 1",Móvil,Orgánico,16,No,3
+530,2015,2024-01-15 08:01:00,Deportes,Raqueta,414.53,1,414.53,Transferencia bancaria,"Ciudad 34, País 4",Móvil,Referido,30,Sí,3
+531,3991,2024-01-02 12:59:00,Ropa,Chaqueta,153.61,5,768.05,Tarjeta de crédito,"Ciudad 17, País 3",Tablet,Pago,4,No,5
+532,9643,2024-01-28 20:04:00,Juguetes,Peluche,236.51,3,709.53,Tarjeta de crédito,"Ciudad 11, País 9",Tablet,Redes Sociales,14,Sí,3
+533,7538,2024-02-18 02:58:00,Hogar,Lámpara,82.88,2,165.76,Criptomoneda,"Ciudad 28, País 5",Móvil,Pago,13,No,3
+534,9666,2024-02-02 09:44:00,Juguetes,Muñeca,177.4,1,177.4,Criptomoneda,"Ciudad 31, País 6",Tablet,Pago,14,No,5
+535,9810,2024-01-07 19:47:00,Juguetes,Peluche,29.59,4,118.36,Criptomoneda,"Ciudad 17, País 7",Móvil,Orgánico,15,No,5
+536,6581,2024-02-14 08:35:00,Electrónica,Smartphone,435.68,5,2178.4,Criptomoneda,"Ciudad 29, País 4",Tablet,Referido,1,No,1
+537,6111,2024-01-13 10:07:00,Deportes,Balón,331.11,2,662.22,PayPal,"Ciudad 12, País 10",PC,Redes Sociales,6,Sí,1
+538,8626,2024-02-24 19:55:00,Juguetes,Muñeca,10.72,4,42.88,Criptomoneda,"Ciudad 38, País 1",PC,Orgánico,24,No,4
+539,1002,2024-02-13 05:45:00,Ropa,Camisa,350.11,1,350.11,Transferencia bancaria,"Ciudad 15, País 7",Tablet,Redes Sociales,18,Sí,2
+540,1004,2024-03-01 14:57:00,Hogar,Cafetera,8.18,4,32.72,PayPal,"Ciudad 33, País 6",Tablet,Referido,12,Sí,3
+541,5453,2024-01-24 21:37:00,Ropa,Pantalón,425.29,5,2126.45,Tarjeta de crédito,"Ciudad 20, País 3",PC,Referido,26,Sí,2
+542,9029,2024-01-12 23:59:00,Belleza,Perfume,384.14,2,768.28,Tarjeta de crédito,"Ciudad 40, País 9",PC,Pago,8,Sí,3
+543,7610,2024-02-29 14:17:00,Electrónica,Smartphone,184.78,4,739.12,Transferencia bancaria,"Ciudad 46, País 8",Móvil,Redes Sociales,6,Sí,2
+544,9791,2024-01-01 23:51:00,Belleza,Afeitadora,91.7,3,275.1,Tarjeta de crédito,"Ciudad 20, País 5",Móvil,Orgánico,7,No,5
+545,9689,2024-02-02 07:38:00,Deportes,Bicicleta,148.8,4,595.2,Transferencia bancaria,"Ciudad 17, País 3",PC,Pago,16,No,4
+546,1758,2024-02-06 11:13:00,Hogar,Mesa,13.39,5,66.95,PayPal,"Ciudad 42, País 2",PC,Pago,15,Sí,2
+547,3622,2024-01-12 19:46:00,Juguetes,Peluche,54.52,1,54.52,Criptomoneda,"Ciudad 8, País 10",PC,Orgánico,24,No,1
+548,1291,2024-02-08 21:55:00,Deportes,Pesas,406.88,2,813.76,Tarjeta de crédito,"Ciudad 37, País 7",PC,Redes Sociales,16,Sí,5
+549,9487,2024-01-20 20:27:00,Hogar,Cafetera,417.13,1,417.13,PayPal,"Ciudad 45, País 9",Móvil,Referido,23,No,5
+550,6139,2024-01-28 10:04:00,Juguetes,Carro de juguete,396.59,3,1189.77,PayPal,"Ciudad 16, País 10",Móvil,Referido,25,Sí,5
+551,9300,2024-02-05 22:03:00,Belleza,Shampoo,460.29,4,1841.16,Criptomoneda,"Ciudad 40, País 9",Móvil,Pago,19,No,2
+552,4297,2024-02-17 03:47:00,Ropa,Zapatos,271.58,4,1086.32,Tarjeta de crédito,"Ciudad 46, País 8",PC,Redes Sociales,5,Sí,3
+553,1279,2024-02-21 20:08:00,Belleza,Crema,375.21,3,1125.63,Criptomoneda,"Ciudad 29, País 3",PC,Redes Sociales,17,Sí,5
+554,2618,2024-01-30 05:21:00,Hogar,Cafetera,175.73,2,351.46,Tarjeta de crédito,"Ciudad 48, País 7",Móvil,Redes Sociales,20,No,1
+555,8979,2024-02-11 21:09:00,Ropa,Camisa,62.61,2,125.22,PayPal,"Ciudad 17, País 4",Móvil,Orgánico,4,No,3
+556,2312,2024-01-30 07:20:00,Deportes,Bicicleta,422.75,5,2113.75,Criptomoneda,"Ciudad 32, País 10",Móvil,Orgánico,21,Sí,1
+557,2947,2024-02-22 07:37:00,Electrónica,Auriculares,192.48,1,192.48,PayPal,"Ciudad 23, País 1",Móvil,Orgánico,6,Sí,1
+558,3396,2024-01-28 01:19:00,Hogar,Sofá,401.04,4,1604.16,Criptomoneda,"Ciudad 25, País 9",PC,Pago,3,Sí,3
+559,5089,2024-02-10 13:27:00,Belleza,Afeitadora,262.18,5,1310.9,Transferencia bancaria,"Ciudad 50, País 5",Móvil,Redes Sociales,8,Sí,1
+560,7396,2024-02-20 07:16:00,Deportes,Pesas,367.49,4,1469.96,Tarjeta de crédito,"Ciudad 45, País 3",PC,Redes Sociales,5,Sí,5
+561,1066,2024-01-01 10:14:00,Juguetes,Carro de juguete,221.1,3,663.3,Criptomoneda,"Ciudad 13, País 10",PC,Referido,9,No,1
+562,5146,2024-02-29 08:26:00,Deportes,Raqueta,415.83,3,1247.49,Criptomoneda,"Ciudad 13, País 6",PC,Orgánico,29,No,1
+563,2959,2024-01-13 13:20:00,Electrónica,Smartphone,317.49,1,317.49,Criptomoneda,"Ciudad 40, País 9",Tablet,Redes Sociales,4,No,1
+564,8904,2024-01-17 22:01:00,Electrónica,Auriculares,499.93,5,2499.65,Criptomoneda,"Ciudad 42, País 5",Tablet,Orgánico,2,No,2
+565,3006,2024-01-08 00:07:00,Deportes,Balón,443.21,5,2216.05,PayPal,"Ciudad 9, País 10",Móvil,Pago,11,Sí,2
+566,1327,2024-02-29 18:04:00,Hogar,Silla,433.26,5,2166.3,Tarjeta de crédito,"Ciudad 48, País 1",Móvil,Orgánico,25,Sí,2
+567,8681,2024-01-02 21:27:00,Juguetes,Carro de juguete,66.25,1,66.25,PayPal,"Ciudad 21, País 2",PC,Redes Sociales,17,Sí,5
+568,3761,2024-02-02 19:46:00,Ropa,Zapatos,127.05,1,127.05,Tarjeta de crédito,"Ciudad 9, País 10",Tablet,Orgánico,19,Sí,4
+569,5665,2024-01-04 23:03:00,Electrónica,Smartphone,435.55,2,871.1,Criptomoneda,"Ciudad 3, País 6",Móvil,Redes Sociales,8,Sí,2
+570,3685,2024-02-11 07:52:00,Ropa,Pantalón,486.24,2,972.48,Tarjeta de crédito,"Ciudad 11, País 9",Móvil,Orgánico,14,Sí,2
+571,4320,2024-01-04 18:04:00,Ropa,Camisa,254.13,3,762.39,Transferencia bancaria,"Ciudad 25, País 10",PC,Orgánico,18,No,1
+572,7808,2024-02-16 18:02:00,Hogar,Mesa,478.53,4,1914.12,PayPal,"Ciudad 34, País 10",Tablet,Referido,7,Sí,1
+573,2460,2024-02-24 23:36:00,Electrónica,Smartphone,285.79,3,857.37,Criptomoneda,"Ciudad 27, País 5",PC,Pago,27,No,3
+574,6558,2024-02-20 21:37:00,Juguetes,Muñeca,37.35,4,149.4,Transferencia bancaria,"Ciudad 4, País 6",PC,Referido,19,Sí,3
+575,9193,2024-01-06 12:10:00,Belleza,Shampoo,312.72,4,1250.88,PayPal,"Ciudad 4, País 5",Tablet,Redes Sociales,9,Sí,4
+576,7519,2024-01-08 01:22:00,Belleza,Afeitadora,389.52,1,389.52,PayPal,"Ciudad 42, País 9",PC,Pago,6,No,4
+577,3361,2024-01-11 16:24:00,Electrónica,Laptop,122.75,1,122.75,Criptomoneda,"Ciudad 6, País 8",PC,Pago,28,Sí,5
+578,3943,2024-02-17 02:21:00,Deportes,Pesas,217.12,4,868.48,Criptomoneda,"Ciudad 28, País 10",Móvil,Redes Sociales,16,No,5
+579,2872,2024-01-08 22:23:00,Ropa,Chaqueta,123.33,5,616.65,Criptomoneda,"Ciudad 25, País 1",Tablet,Referido,11,No,2
+580,6644,2024-01-17 14:29:00,Electrónica,Monitor,146.58,5,732.9,Criptomoneda,"Ciudad 21, País 7",Tablet,Pago,19,No,4
+581,2892,2024-01-05 06:22:00,Electrónica,Teclado,73.29,1,73.29,PayPal,"Ciudad 50, País 5",Tablet,Redes Sociales,14,Sí,2
+582,2059,2024-02-18 09:54:00,Belleza,Crema,233.87,2,467.74,Criptomoneda,"Ciudad 43, País 1",PC,Redes Sociales,29,No,2
+583,6903,2024-01-15 09:33:00,Belleza,Maquillaje,479.63,4,1918.52,Tarjeta de crédito,"Ciudad 3, País 4",Tablet,Redes Sociales,24,Sí,5
+584,2201,2024-01-29 15:46:00,Deportes,Pesas,325.94,4,1303.76,Tarjeta de crédito,"Ciudad 19, País 8",Móvil,Pago,18,Sí,4
+585,1171,2024-02-26 17:46:00,Deportes,Balón,202.59,4,810.36,Tarjeta de crédito,"Ciudad 31, País 6",Móvil,Redes Sociales,28,Sí,3
+586,3524,2024-02-17 19:40:00,Juguetes,LEGO,225.29,4,901.16,Tarjeta de crédito,"Ciudad 14, País 7",Móvil,Referido,27,Sí,2
+587,4174,2024-02-12 10:26:00,Hogar,Sofá,150.31,5,751.55,PayPal,"Ciudad 46, País 10",Tablet,Referido,3,No,3
+588,3072,2024-01-12 10:16:00,Hogar,Silla,68.87,2,137.74,Tarjeta de crédito,"Ciudad 39, País 10",Móvil,Referido,28,Sí,5
+589,9604,2024-01-26 18:20:00,Electrónica,Teclado,254.48,3,763.44,Criptomoneda,"Ciudad 39, País 1",Móvil,Pago,19,No,2
+590,6413,2024-02-19 06:55:00,Ropa,Pantalón,303.85,5,1519.25,PayPal,"Ciudad 34, País 2",Tablet,Orgánico,12,No,3
+591,6575,2024-01-13 21:28:00,Hogar,Cafetera,204.58,3,613.74,Transferencia bancaria,"Ciudad 44, País 10",Tablet,Referido,10,Sí,4
+592,9604,2024-01-03 22:10:00,Deportes,Bicicleta,350.06,4,1400.24,Criptomoneda,"Ciudad 45, País 7",PC,Pago,4,No,2
+593,1712,2024-01-17 16:56:00,Juguetes,LEGO,162.09,1,162.09,Criptomoneda,"Ciudad 26, País 10",Móvil,Orgánico,4,No,2
+594,9437,2024-02-24 09:57:00,Belleza,Shampoo,80.06,2,160.12,Criptomoneda,"Ciudad 22, País 10",Tablet,Pago,12,Sí,4
+595,8588,2024-01-27 07:39:00,Ropa,Pantalón,151.13,1,151.13,Transferencia bancaria,"Ciudad 6, País 1",PC,Pago,10,No,2
+596,6118,2024-01-25 09:43:00,Deportes,Pesas,435.46,1,435.46,Transferencia bancaria,"Ciudad 4, País 4",PC,Redes Sociales,30,Sí,2
+597,5510,2024-02-03 19:10:00,Deportes,Casco,421.17,5,2105.85,Tarjeta de crédito,"Ciudad 47, País 10",Móvil,Referido,23,Sí,5
+598,4676,2024-02-11 16:22:00,Juguetes,Rompecabezas,452.07,3,1356.21,PayPal,"Ciudad 50, País 1",Tablet,Referido,6,No,5
+599,5034,2024-01-15 13:22:00,Ropa,Gorra,458.94,5,2294.7,Transferencia bancaria,"Ciudad 12, País 7",Móvil,Pago,25,Sí,2
+600,1607,2024-01-23 03:58:00,Juguetes,Carro de juguete,471.1,4,1884.4,PayPal,"Ciudad 15, País 8",Tablet,Pago,11,No,4
+601,9550,2024-02-22 12:51:00,Belleza,Crema,233.22,2,466.44,PayPal,"Ciudad 14, País 9",Tablet,Referido,10,Sí,3
+602,1959,2024-01-14 18:33:00,Juguetes,Peluche,186.21,5,931.05,Transferencia bancaria,"Ciudad 4, País 10",Tablet,Orgánico,8,Sí,5
+603,4320,2024-01-24 05:35:00,Belleza,Shampoo,295.19,1,295.19,PayPal,"Ciudad 20, País 9",Tablet,Pago,20,Sí,5
+604,4123,2024-01-12 07:04:00,Electrónica,Laptop,446.91,2,893.82,Tarjeta de crédito,"Ciudad 32, País 9",Móvil,Referido,16,Sí,3
+605,9386,2024-02-27 11:09:00,Deportes,Pesas,186.15,4,744.6,Criptomoneda,"Ciudad 4, País 9",Tablet,Referido,30,Sí,1
+606,6289,2024-01-08 07:34:00,Electrónica,Teclado,221.72,3,665.16,PayPal,"Ciudad 7, País 3",Móvil,Referido,6,No,2
+607,4746,2024-02-14 15:02:00,Electrónica,Auriculares,401.7,5,2008.5,Criptomoneda,"Ciudad 30, País 8",PC,Referido,11,Sí,5
+608,7806,2024-01-23 04:49:00,Hogar,Sofá,496.4,3,1489.2,Criptomoneda,"Ciudad 35, País 7",Tablet,Orgánico,9,No,3
+609,5920,2024-02-21 10:14:00,Belleza,Crema,228.93,5,1144.65,PayPal,"Ciudad 19, País 7",PC,Pago,23,No,5
+610,5674,2024-02-05 09:14:00,Juguetes,Rompecabezas,128.28,5,641.4,Tarjeta de crédito,"Ciudad 21, País 1",Tablet,Pago,7,No,2
+611,3505,2024-02-02 10:43:00,Electrónica,Smartphone,445.26,1,445.26,Tarjeta de crédito,"Ciudad 44, País 3",PC,Redes Sociales,23,No,3
+612,7138,2024-02-10 16:07:00,Belleza,Afeitadora,397.08,3,1191.24,Transferencia bancaria,"Ciudad 13, País 10",Tablet,Referido,15,No,4
+613,5372,2024-02-10 18:04:00,Hogar,Cafetera,218.53,3,655.59,PayPal,"Ciudad 28, País 9",Tablet,Pago,10,Sí,2
+614,8727,2024-02-12 06:53:00,Hogar,Silla,56.47,5,282.35,Transferencia bancaria,"Ciudad 45, País 7",PC,Redes Sociales,16,No,4
+615,9221,2024-02-07 17:17:00,Electrónica,Auriculares,170.54,1,170.54,PayPal,"Ciudad 6, País 1",Móvil,Orgánico,22,Sí,4
+616,6594,2024-01-01 10:46:00,Juguetes,Muñeca,120.32,4,481.28,Transferencia bancaria,"Ciudad 1, País 5",PC,Pago,9,Sí,2
+617,7316,2024-02-25 07:29:00,Belleza,Crema,142.23,4,568.92,Transferencia bancaria,"Ciudad 2, País 8",Tablet,Redes Sociales,12,No,5
+618,9829,2024-01-27 21:34:00,Ropa,Camisa,485.51,1,485.51,Tarjeta de crédito,"Ciudad 41, País 7",Móvil,Orgánico,23,Sí,5
+619,4659,2024-02-12 22:29:00,Deportes,Pesas,208.77,4,835.08,Criptomoneda,"Ciudad 33, País 7",Móvil,Orgánico,12,No,1
+620,8800,2024-02-08 20:00:00,Juguetes,Muñeca,207.5,1,207.5,Transferencia bancaria,"Ciudad 13, País 9",Móvil,Redes Sociales,17,Sí,2
+621,4321,2024-02-20 13:48:00,Juguetes,Muñeca,415.2,4,1660.8,PayPal,"Ciudad 47, País 7",Móvil,Pago,6,Sí,1
+622,7303,2024-02-29 11:00:00,Deportes,Pesas,362.4,4,1449.6,Transferencia bancaria,"Ciudad 24, País 1",Móvil,Orgánico,21,No,1
+623,8236,2024-01-06 08:26:00,Belleza,Perfume,14.32,3,42.96,Tarjeta de crédito,"Ciudad 50, País 4",Móvil,Redes Sociales,8,Sí,5
+624,7475,2024-02-01 23:28:00,Belleza,Perfume,259.43,1,259.43,Criptomoneda,"Ciudad 14, País 8",Móvil,Redes Sociales,12,Sí,4
+625,3309,2024-01-02 05:28:00,Electrónica,Monitor,20.89,3,62.67,Transferencia bancaria,"Ciudad 39, País 6",Tablet,Orgánico,7,Sí,2
+626,1232,2024-01-26 20:39:00,Hogar,Cafetera,69.44,2,138.88,Tarjeta de crédito,"Ciudad 2, País 7",Tablet,Pago,22,Sí,4
+627,3302,2024-01-02 06:16:00,Electrónica,Teclado,484.83,1,484.83,PayPal,"Ciudad 50, País 7",PC,Redes Sociales,14,Sí,4
+628,5143,2024-02-27 21:03:00,Juguetes,Peluche,247.65,5,1238.25,PayPal,"Ciudad 31, País 1",Móvil,Pago,5,No,4
+629,3326,2024-01-15 20:10:00,Juguetes,Carro de juguete,185.99,4,743.96,Criptomoneda,"Ciudad 1, País 7",PC,Pago,30,No,2
+630,4445,2024-01-04 20:17:00,Deportes,Bicicleta,15.03,3,45.09,Transferencia bancaria,"Ciudad 34, País 10",Tablet,Redes Sociales,27,No,2
+631,5117,2024-01-18 23:35:00,Belleza,Maquillaje,82.95,5,414.75,Criptomoneda,"Ciudad 12, País 6",PC,Pago,18,No,5
+632,8075,2024-02-07 23:02:00,Belleza,Perfume,294.8,5,1474.0,Transferencia bancaria,"Ciudad 14, País 9",Tablet,Orgánico,4,Sí,5
+633,5719,2024-02-29 06:01:00,Deportes,Pesas,359.52,4,1438.08,Tarjeta de crédito,"Ciudad 22, País 5",Tablet,Pago,28,No,4
+634,8102,2024-02-24 21:23:00,Hogar,Silla,205.97,2,411.94,Transferencia bancaria,"Ciudad 48, País 8",PC,Redes Sociales,6,Sí,4
+635,5295,2024-01-10 15:18:00,Juguetes,Carro de juguete,344.47,5,1722.35,Criptomoneda,"Ciudad 45, País 3",Móvil,Orgánico,28,No,5
+636,4775,2024-01-04 16:35:00,Deportes,Pesas,343.05,4,1372.2,Transferencia bancaria,"Ciudad 25, País 7",Tablet,Pago,11,No,3
+637,4515,2024-01-16 02:01:00,Hogar,Lámpara,393.36,5,1966.8,Criptomoneda,"Ciudad 40, País 6",Móvil,Pago,23,Sí,2
+638,6585,2024-02-20 23:43:00,Belleza,Perfume,118.51,1,118.51,PayPal,"Ciudad 18, País 9",Tablet,Orgánico,26,Sí,4
+639,9962,2024-02-11 23:47:00,Ropa,Camisa,7.31,2,14.62,Transferencia bancaria,"Ciudad 8, País 10",Móvil,Orgánico,1,No,5
+640,2134,2024-01-06 19:16:00,Hogar,Mesa,347.76,3,1043.28,PayPal,"Ciudad 2, País 1",Móvil,Redes Sociales,8,No,4
+641,5834,2024-02-20 10:36:00,Ropa,Zapatos,71.32,2,142.64,Tarjeta de crédito,"Ciudad 43, País 2",PC,Redes Sociales,15,Sí,3
+642,4782,2024-02-16 17:11:00,Hogar,Sofá,253.13,1,253.13,Transferencia bancaria,"Ciudad 35, País 1",PC,Redes Sociales,16,No,2
+643,8792,2024-02-11 13:57:00,Ropa,Chaqueta,175.23,3,525.69,Criptomoneda,"Ciudad 2, País 4",PC,Orgánico,4,No,4
+644,6855,2024-02-11 06:40:00,Juguetes,LEGO,352.42,4,1409.68,Tarjeta de crédito,"Ciudad 43, País 7",Tablet,Redes Sociales,28,Sí,3
+645,1619,2024-01-06 07:25:00,Belleza,Crema,40.45,4,161.8,Tarjeta de crédito,"Ciudad 45, País 3",Móvil,Redes Sociales,7,Sí,5
+646,6337,2024-01-14 12:29:00,Juguetes,Muñeca,96.23,2,192.46,Tarjeta de crédito,"Ciudad 23, País 9",PC,Pago,23,No,1
+647,4774,2024-02-12 11:14:00,Ropa,Chaqueta,176.49,5,882.45,Tarjeta de crédito,"Ciudad 2, País 7",PC,Pago,4,No,2
+648,4943,2024-02-19 05:26:00,Electrónica,Laptop,273.05,1,273.05,Transferencia bancaria,"Ciudad 32, País 10",PC,Referido,10,Sí,4
+649,1099,2024-01-18 16:58:00,Ropa,Pantalón,139.95,5,699.75,Tarjeta de crédito,"Ciudad 8, País 6",Tablet,Redes Sociales,24,No,3
+650,9679,2024-02-20 18:10:00,Deportes,Casco,10.67,1,10.67,Criptomoneda,"Ciudad 37, País 9",Tablet,Pago,28,Sí,4
+651,5262,2024-01-29 18:19:00,Belleza,Shampoo,55.22,2,110.44,Transferencia bancaria,"Ciudad 34, País 10",PC,Pago,24,Sí,4
+652,7989,2024-01-14 15:42:00,Ropa,Zapatos,464.08,1,464.08,Criptomoneda,"Ciudad 21, País 10",PC,Redes Sociales,29,Sí,5
+653,5746,2024-01-19 09:46:00,Ropa,Gorra,20.59,4,82.36,Tarjeta de crédito,"Ciudad 39, País 5",Tablet,Redes Sociales,30,No,1
+654,8718,2024-01-05 19:08:00,Deportes,Bicicleta,444.18,3,1332.54,Transferencia bancaria,"Ciudad 14, País 4",PC,Redes Sociales,19,Sí,1
+655,2491,2024-01-01 01:52:00,Juguetes,Peluche,337.63,4,1350.52,PayPal,"Ciudad 13, País 8",PC,Orgánico,22,Sí,5
+656,2692,2024-02-19 09:39:00,Hogar,Sofá,278.31,2,556.62,Tarjeta de crédito,"Ciudad 47, País 2",Móvil,Redes Sociales,15,Sí,4
+657,7335,2024-01-01 20:55:00,Ropa,Gorra,406.51,2,813.02,Criptomoneda,"Ciudad 38, País 10",Móvil,Pago,26,No,3
+658,3606,2024-01-31 09:42:00,Hogar,Silla,100.11,3,300.33,PayPal,"Ciudad 9, País 7",Móvil,Referido,7,No,3
+659,1053,2024-01-02 20:26:00,Hogar,Mesa,171.49,3,514.47,Tarjeta de crédito,"Ciudad 44, País 2",Tablet,Referido,29,Sí,3
+660,6760,2024-01-27 11:02:00,Ropa,Camisa,156.37,1,156.37,Transferencia bancaria,"Ciudad 22, País 1",Tablet,Pago,7,Sí,1
+661,1624,2024-02-13 19:51:00,Belleza,Perfume,351.37,5,1756.85,Tarjeta de crédito,"Ciudad 36, País 9",Tablet,Orgánico,10,Sí,3
+662,4227,2024-01-13 22:28:00,Belleza,Afeitadora,248.09,2,496.18,Tarjeta de crédito,"Ciudad 48, País 3",Tablet,Referido,27,Sí,2
+663,4413,2024-02-05 20:49:00,Electrónica,Laptop,57.56,5,287.8,Transferencia bancaria,"Ciudad 16, País 1",PC,Pago,3,Sí,2
+664,2408,2024-01-17 23:35:00,Ropa,Gorra,163.47,2,326.94,PayPal,"Ciudad 34, País 3",Móvil,Referido,26,Sí,4
+665,3169,2024-01-17 18:25:00,Hogar,Silla,310.09,4,1240.36,Criptomoneda,"Ciudad 31, País 7",PC,Pago,18,No,3
+666,2150,2024-02-07 02:45:00,Hogar,Lámpara,338.09,4,1352.36,PayPal,"Ciudad 9, País 10",PC,Redes Sociales,23,Sí,5
+667,8835,2024-02-14 22:34:00,Belleza,Shampoo,143.93,2,287.86,Transferencia bancaria,"Ciudad 19, País 6",Móvil,Redes Sociales,7,No,5
+668,3237,2024-02-24 01:21:00,Ropa,Zapatos,139.72,3,419.16,Tarjeta de crédito,"Ciudad 38, País 9",Móvil,Referido,25,Sí,1
+669,4285,2024-01-12 00:35:00,Hogar,Sofá,382.9,2,765.8,Transferencia bancaria,"Ciudad 29, País 10",PC,Pago,22,Sí,1
+670,2097,2024-02-05 16:44:00,Juguetes,Carro de juguete,114.31,4,457.24,Transferencia bancaria,"Ciudad 29, País 1",Móvil,Redes Sociales,18,Sí,2
+671,6963,2024-01-04 02:16:00,Juguetes,Muñeca,26.67,4,106.68,Tarjeta de crédito,"Ciudad 3, País 5",PC,Pago,27,Sí,3
+672,1950,2024-02-13 18:52:00,Juguetes,Carro de juguete,288.9,4,1155.6,PayPal,"Ciudad 38, País 5",Móvil,Orgánico,1,No,3
+673,3189,2024-02-17 09:13:00,Ropa,Camisa,68.13,4,272.52,Tarjeta de crédito,"Ciudad 23, País 3",Móvil,Redes Sociales,13,No,3
+674,7051,2024-02-03 08:48:00,Belleza,Maquillaje,432.01,5,2160.05,Transferencia bancaria,"Ciudad 20, País 2",PC,Orgánico,20,Sí,4
+675,5984,2024-02-10 11:57:00,Ropa,Pantalón,169.67,1,169.67,Transferencia bancaria,"Ciudad 36, País 3",PC,Pago,17,No,5
+676,9898,2024-01-25 10:39:00,Electrónica,Smartphone,417.82,5,2089.1,Transferencia bancaria,"Ciudad 1, País 2",Móvil,Referido,16,Sí,4
+677,4634,2024-01-17 21:33:00,Juguetes,Muñeca,120.7,3,362.1,Transferencia bancaria,"Ciudad 13, País 10",PC,Orgánico,18,Sí,5
+678,1616,2024-01-22 09:17:00,Juguetes,Rompecabezas,249.7,1,249.7,PayPal,"Ciudad 20, País 8",Tablet,Redes Sociales,22,No,2
+679,3785,2024-01-13 16:03:00,Electrónica,Teclado,438.27,5,2191.35,Tarjeta de crédito,"Ciudad 42, País 10",Tablet,Orgánico,6,No,5
+680,9507,2024-01-29 08:02:00,Electrónica,Laptop,138.87,3,416.61,Tarjeta de crédito,"Ciudad 15, País 7",Tablet,Orgánico,20,No,5
+681,5003,2024-01-15 14:23:00,Hogar,Mesa,120.76,3,362.28,Transferencia bancaria,"Ciudad 39, País 8",PC,Orgánico,30,No,2
+682,9757,2024-02-24 04:59:00,Electrónica,Monitor,69.7,4,278.8,Tarjeta de crédito,"Ciudad 20, País 4",Tablet,Redes Sociales,12,No,1
+683,3480,2024-01-16 20:48:00,Hogar,Sofá,323.13,2,646.26,Transferencia bancaria,"Ciudad 35, País 2",Tablet,Referido,23,Sí,2
+684,7860,2024-02-15 17:16:00,Juguetes,Carro de juguete,410.84,4,1643.36,PayPal,"Ciudad 6, País 10",PC,Referido,5,Sí,3
+685,5081,2024-01-20 08:42:00,Belleza,Maquillaje,269.92,5,1349.6,Tarjeta de crédito,"Ciudad 11, País 9",Tablet,Orgánico,18,No,5
+686,5245,2024-01-13 08:24:00,Belleza,Perfume,372.69,2,745.38,Tarjeta de crédito,"Ciudad 38, País 6",PC,Orgánico,11,Sí,2
+687,6126,2024-02-07 12:04:00,Belleza,Shampoo,447.68,5,2238.4,Criptomoneda,"Ciudad 30, País 1",PC,Redes Sociales,13,Sí,4
+688,9500,2024-02-12 06:13:00,Deportes,Pesas,142.26,3,426.78,Criptomoneda,"Ciudad 8, País 7",PC,Referido,15,No,1
+689,8490,2024-01-08 09:49:00,Ropa,Pantalón,429.71,2,859.42,Transferencia bancaria,"Ciudad 5, País 4",Tablet,Referido,22,Sí,1
+690,7897,2024-02-04 21:45:00,Juguetes,Carro de juguete,416.51,3,1249.53,Criptomoneda,"Ciudad 35, País 1",Móvil,Pago,27,No,4
+691,8533,2024-02-11 18:16:00,Electrónica,Laptop,330.1,3,990.3,PayPal,"Ciudad 37, País 3",Tablet,Redes Sociales,28,Sí,2
+692,6367,2024-01-11 13:52:00,Juguetes,Muñeca,188.91,1,188.91,Tarjeta de crédito,"Ciudad 17, País 2",Móvil,Referido,6,No,3
+693,4756,2024-01-18 23:41:00,Ropa,Camisa,176.85,2,353.7,Transferencia bancaria,"Ciudad 11, País 7",Móvil,Referido,24,Sí,2
+694,2454,2024-01-03 00:15:00,Deportes,Pesas,406.74,3,1220.22,Transferencia bancaria,"Ciudad 38, País 3",PC,Pago,20,No,4
+695,1579,2024-02-15 15:20:00,Deportes,Balón,321.42,4,1285.68,Transferencia bancaria,"Ciudad 50, País 7",Móvil,Pago,12,No,5
+696,5605,2024-01-09 17:45:00,Juguetes,LEGO,55.64,5,278.2,Criptomoneda,"Ciudad 20, País 2",Móvil,Referido,4,Sí,4
+697,7805,2024-02-23 14:07:00,Deportes,Balón,96.66,3,289.98,Criptomoneda,"Ciudad 31, País 9",PC,Referido,26,No,2
+698,2932,2024-03-01 07:20:00,Hogar,Cafetera,214.6,3,643.8,PayPal,"Ciudad 21, País 7",Móvil,Pago,26,No,1
+699,7095,2024-01-07 18:00:00,Juguetes,Muñeca,84.56,3,253.68,PayPal,"Ciudad 38, País 8",Móvil,Redes Sociales,5,No,3
+700,3933,2024-01-16 06:07:00,Belleza,Shampoo,72.37,1,72.37,Criptomoneda,"Ciudad 2, País 4",Tablet,Pago,14,Sí,5
+701,1170,2024-02-05 15:39:00,Belleza,Perfume,378.2,2,756.4,Tarjeta de crédito,"Ciudad 37, País 7",PC,Redes Sociales,20,Sí,2
+702,5776,2024-02-26 09:49:00,Juguetes,Carro de juguete,395.07,5,1975.35,Transferencia bancaria,"Ciudad 3, País 3",Tablet,Pago,12,Sí,5
+703,3341,2024-01-02 04:47:00,Electrónica,Teclado,13.23,1,13.23,Tarjeta de crédito,"Ciudad 31, País 4",PC,Orgánico,30,Sí,1
+704,5716,2024-01-31 22:25:00,Belleza,Perfume,236.05,5,1180.25,Criptomoneda,"Ciudad 40, País 1",Tablet,Redes Sociales,12,Sí,3
+705,3480,2024-02-07 07:33:00,Juguetes,Peluche,346.29,1,346.29,Transferencia bancaria,"Ciudad 19, País 4",PC,Orgánico,9,Sí,4
+706,9340,2024-01-04 17:44:00,Hogar,Lámpara,125.52,4,502.08,Transferencia bancaria,"Ciudad 42, País 1",Móvil,Redes Sociales,3,Sí,2
+707,7563,2024-01-10 19:44:00,Electrónica,Teclado,138.4,1,138.4,Transferencia bancaria,"Ciudad 49, País 9",Tablet,Referido,28,No,5
+708,1065,2024-02-07 13:14:00,Electrónica,Laptop,32.68,2,65.36,Tarjeta de crédito,"Ciudad 50, País 5",PC,Orgánico,12,Sí,2
+709,3524,2024-02-23 16:19:00,Hogar,Cafetera,492.03,5,2460.15,Transferencia bancaria,"Ciudad 37, País 7",PC,Referido,27,No,5
+710,9424,2024-02-04 22:43:00,Juguetes,Peluche,41.7,4,166.8,Criptomoneda,"Ciudad 3, País 3",PC,Pago,28,No,1
+711,2654,2024-01-25 14:25:00,Ropa,Camisa,245.56,1,245.56,PayPal,"Ciudad 2, País 1",PC,Pago,12,Sí,1
+712,2160,2024-02-17 14:30:00,Electrónica,Laptop,411.0,4,1644.0,Tarjeta de crédito,"Ciudad 40, País 7",Tablet,Redes Sociales,15,No,4
+713,8889,2024-02-16 06:21:00,Juguetes,Rompecabezas,144.87,3,434.61,Criptomoneda,"Ciudad 47, País 10",Móvil,Pago,29,No,1
+714,8123,2024-01-09 01:58:00,Hogar,Lámpara,284.76,4,1139.04,Transferencia bancaria,"Ciudad 23, País 2",Tablet,Referido,9,Sí,3
+715,6657,2024-01-25 03:04:00,Hogar,Cafetera,285.56,4,1142.24,PayPal,"Ciudad 25, País 4",PC,Orgánico,21,Sí,1
+716,2854,2024-02-28 08:18:00,Juguetes,Peluche,138.42,1,138.42,Tarjeta de crédito,"Ciudad 31, País 7",Móvil,Pago,3,No,2
+717,5546,2024-01-21 17:46:00,Belleza,Afeitadora,155.23,4,620.92,PayPal,"Ciudad 16, País 3",Tablet,Pago,16,Sí,3
+718,7521,2024-01-29 13:02:00,Juguetes,Rompecabezas,467.3,4,1869.2,Criptomoneda,"Ciudad 27, País 4",Tablet,Redes Sociales,1,Sí,2
+719,3646,2024-01-12 12:49:00,Electrónica,Smartphone,120.91,2,241.82,Criptomoneda,"Ciudad 33, País 5",Tablet,Referido,11,No,2
+720,7804,2024-01-12 04:03:00,Hogar,Mesa,217.42,4,869.68,Criptomoneda,"Ciudad 9, País 5",Móvil,Referido,19,No,2
+721,5949,2024-01-16 15:19:00,Juguetes,Carro de juguete,157.92,5,789.6,Tarjeta de crédito,"Ciudad 42, País 3",Móvil,Orgánico,16,No,4
+722,1143,2024-01-16 21:39:00,Electrónica,Auriculares,322.3,5,1611.5,Transferencia bancaria,"Ciudad 20, País 2",Móvil,Referido,21,Sí,4
+723,6720,2024-02-18 00:35:00,Hogar,Mesa,6.01,4,24.04,PayPal,"Ciudad 31, País 1",Tablet,Referido,23,No,1
+724,4901,2024-01-20 15:31:00,Belleza,Maquillaje,293.88,3,881.64,Criptomoneda,"Ciudad 8, País 5",Tablet,Referido,7,No,4
+725,4877,2024-01-03 08:36:00,Deportes,Casco,34.63,4,138.52,Transferencia bancaria,"Ciudad 16, País 3",Móvil,Referido,27,Sí,3
+726,3494,2024-01-10 14:08:00,Hogar,Mesa,321.81,2,643.62,Transferencia bancaria,"Ciudad 38, País 2",Tablet,Redes Sociales,10,Sí,5
+727,4175,2024-01-06 23:48:00,Deportes,Casco,237.77,3,713.31,Transferencia bancaria,"Ciudad 2, País 2",PC,Redes Sociales,19,Sí,3
+728,4246,2024-02-13 23:40:00,Electrónica,Smartphone,219.86,2,439.72,Tarjeta de crédito,"Ciudad 7, País 5",Móvil,Redes Sociales,4,No,5
+729,8396,2024-02-03 10:51:00,Ropa,Zapatos,40.52,2,81.04,Tarjeta de crédito,"Ciudad 25, País 7",PC,Orgánico,3,No,3
+730,6147,2024-01-26 20:25:00,Hogar,Sofá,319.15,4,1276.6,Criptomoneda,"Ciudad 27, País 4",Tablet,Pago,27,Sí,5
+731,6884,2024-01-15 07:44:00,Hogar,Cafetera,111.69,4,446.76,Transferencia bancaria,"Ciudad 11, País 2",PC,Orgánico,13,No,3
+732,8634,2024-02-29 08:53:00,Belleza,Crema,39.91,3,119.73,Criptomoneda,"Ciudad 5, País 6",Tablet,Pago,18,No,5
+733,9824,2024-02-09 07:19:00,Belleza,Maquillaje,12.33,3,36.99,Transferencia bancaria,"Ciudad 4, País 3",Móvil,Referido,10,Sí,5
+734,1721,2024-02-23 09:38:00,Deportes,Pesas,178.01,2,356.02,Criptomoneda,"Ciudad 23, País 5",PC,Pago,15,No,4
+735,9766,2024-02-21 10:01:00,Belleza,Crema,364.7,3,1094.1,Tarjeta de crédito,"Ciudad 18, País 10",Tablet,Orgánico,27,No,1
+736,4719,2024-02-01 07:25:00,Deportes,Bicicleta,50.59,5,252.95,Transferencia bancaria,"Ciudad 44, País 5",PC,Redes Sociales,30,No,2
+737,6011,2024-02-12 07:52:00,Juguetes,Peluche,267.29,1,267.29,Tarjeta de crédito,"Ciudad 14, País 2",PC,Referido,30,Sí,3
+738,3265,2024-02-05 23:15:00,Belleza,Maquillaje,112.41,5,562.05,Transferencia bancaria,"Ciudad 5, País 2",Móvil,Orgánico,12,Sí,3
+739,1637,2024-02-23 17:30:00,Ropa,Camisa,472.51,1,472.51,Transferencia bancaria,"Ciudad 33, País 9",Móvil,Orgánico,7,No,5
+740,3863,2024-02-03 02:40:00,Deportes,Raqueta,141.97,1,141.97,Transferencia bancaria,"Ciudad 9, País 10",Tablet,Orgánico,30,No,3
+741,8408,2024-01-12 04:26:00,Juguetes,Muñeca,345.74,3,1037.22,PayPal,"Ciudad 22, País 9",Tablet,Referido,22,Sí,5
+742,2326,2024-02-20 03:22:00,Electrónica,Smartphone,23.37,2,46.74,Criptomoneda,"Ciudad 8, País 3",Móvil,Referido,23,Sí,5
+743,2925,2024-02-18 03:17:00,Juguetes,LEGO,310.25,1,310.25,Transferencia bancaria,"Ciudad 31, País 5",Tablet,Referido,3,Sí,4
+744,3800,2024-02-07 17:07:00,Juguetes,Peluche,255.48,4,1021.92,Tarjeta de crédito,"Ciudad 42, País 10",Tablet,Orgánico,7,No,5
+745,3433,2024-02-06 04:17:00,Electrónica,Monitor,44.56,5,222.8,Tarjeta de crédito,"Ciudad 30, País 9",PC,Orgánico,11,Sí,1
+746,7663,2024-03-01 05:02:00,Electrónica,Auriculares,39.13,2,78.26,Criptomoneda,"Ciudad 8, País 6",PC,Pago,9,Sí,5
+747,1947,2024-02-02 06:06:00,Hogar,Silla,462.48,4,1849.92,PayPal,"Ciudad 18, País 3",Móvil,Redes Sociales,27,Sí,4
+748,3256,2024-01-22 08:42:00,Belleza,Maquillaje,475.7,5,2378.5,Transferencia bancaria,"Ciudad 48, País 3",Móvil,Redes Sociales,4,No,4
+749,2635,2024-02-15 09:33:00,Belleza,Perfume,137.76,4,551.04,PayPal,"Ciudad 35, País 1",PC,Orgánico,1,No,2
+750,1643,2024-02-06 14:11:00,Hogar,Cafetera,356.66,1,356.66,Criptomoneda,"Ciudad 47, País 8",PC,Referido,1,No,1
+751,3929,2024-01-14 22:42:00,Deportes,Balón,285.84,4,1143.36,Tarjeta de crédito,"Ciudad 17, País 5",PC,Referido,7,No,3
+752,3218,2024-02-12 20:24:00,Hogar,Lámpara,361.43,4,1445.72,PayPal,"Ciudad 39, País 1",Tablet,Referido,1,No,3
+753,4340,2024-02-01 20:57:00,Hogar,Lámpara,144.4,3,433.2,PayPal,"Ciudad 2, País 5",PC,Orgánico,11,No,2
+754,8491,2024-01-30 11:32:00,Deportes,Bicicleta,374.7,3,1124.1,Transferencia bancaria,"Ciudad 39, País 1",Móvil,Referido,30,No,2
+755,2834,2024-02-07 12:54:00,Deportes,Casco,432.69,1,432.69,Transferencia bancaria,"Ciudad 21, País 10",Móvil,Redes Sociales,17,No,1
+756,5921,2024-02-23 18:54:00,Juguetes,Carro de juguete,234.38,4,937.52,Criptomoneda,"Ciudad 8, País 7",Tablet,Referido,26,No,1
+757,8536,2024-02-01 23:21:00,Electrónica,Teclado,407.06,5,2035.3,Tarjeta de crédito,"Ciudad 25, País 6",Tablet,Pago,30,Sí,4
+758,9339,2024-01-29 23:15:00,Hogar,Mesa,452.62,1,452.62,Criptomoneda,"Ciudad 38, País 6",PC,Referido,1,No,2
+759,9818,2024-01-02 00:58:00,Belleza,Afeitadora,168.81,5,844.05,Tarjeta de crédito,"Ciudad 28, País 2",Tablet,Redes Sociales,8,No,5
+760,1281,2024-02-08 05:17:00,Belleza,Crema,39.56,5,197.8,Tarjeta de crédito,"Ciudad 10, País 9",Tablet,Orgánico,19,No,5
+761,4721,2024-01-14 17:03:00,Hogar,Mesa,146.54,3,439.62,Transferencia bancaria,"Ciudad 10, País 7",PC,Orgánico,1,Sí,1
+762,4087,2024-02-25 12:54:00,Hogar,Mesa,151.5,1,151.5,Transferencia bancaria,"Ciudad 27, País 5",PC,Pago,2,Sí,3
+763,3020,2024-01-20 02:20:00,Belleza,Maquillaje,174.04,3,522.12,PayPal,"Ciudad 36, País 4",Tablet,Referido,29,No,3
+764,5472,2024-02-05 11:01:00,Belleza,Perfume,399.65,4,1598.6,Transferencia bancaria,"Ciudad 21, País 3",PC,Referido,3,Sí,5
+765,1605,2024-02-01 16:12:00,Belleza,Perfume,19.23,2,38.46,Criptomoneda,"Ciudad 48, País 8",Tablet,Pago,18,Sí,2
+766,5309,2024-02-22 12:20:00,Hogar,Cafetera,441.04,2,882.08,Tarjeta de crédito,"Ciudad 47, País 7",Móvil,Orgánico,6,No,4
+767,1799,2024-02-05 21:25:00,Ropa,Pantalón,350.39,1,350.39,Tarjeta de crédito,"Ciudad 3, País 4",Tablet,Orgánico,12,No,1
+768,6183,2024-02-06 02:58:00,Deportes,Balón,429.32,4,1717.28,Criptomoneda,"Ciudad 11, País 3",PC,Redes Sociales,21,Sí,3
+769,7937,2024-01-28 05:49:00,Juguetes,Carro de juguete,242.94,2,485.88,Tarjeta de crédito,"Ciudad 39, País 8",Móvil,Redes Sociales,22,Sí,1
+770,5234,2024-01-16 21:30:00,Belleza,Crema,382.76,5,1913.8,Criptomoneda,"Ciudad 30, País 2",Tablet,Redes Sociales,10,Sí,2
+771,3383,2024-02-26 14:53:00,Hogar,Sofá,319.6,3,958.8,PayPal,"Ciudad 3, País 7",PC,Orgánico,15,Sí,4
+772,5705,2024-01-31 03:16:00,Juguetes,Peluche,382.78,2,765.56,PayPal,"Ciudad 34, País 5",Móvil,Referido,28,No,2
+773,2134,2024-02-25 14:49:00,Ropa,Pantalón,279.35,3,838.05,Tarjeta de crédito,"Ciudad 9, País 2",PC,Referido,24,Sí,3
+774,3158,2024-02-15 23:59:00,Deportes,Casco,138.02,5,690.1,PayPal,"Ciudad 49, País 9",PC,Orgánico,1,Sí,3
+775,1743,2024-01-02 01:48:00,Belleza,Perfume,231.49,4,925.96,Transferencia bancaria,"Ciudad 34, País 4",Tablet,Orgánico,15,Sí,1
+776,7810,2024-02-05 06:11:00,Deportes,Bicicleta,96.65,1,96.65,Tarjeta de crédito,"Ciudad 6, País 7",Móvil,Orgánico,26,Sí,4
+777,8766,2024-02-13 14:18:00,Belleza,Afeitadora,294.82,5,1474.1,Tarjeta de crédito,"Ciudad 25, País 4",PC,Referido,25,Sí,1
+778,5682,2024-02-21 00:07:00,Juguetes,Peluche,201.61,3,604.83,Tarjeta de crédito,"Ciudad 6, País 1",Móvil,Orgánico,17,No,2
+779,6762,2024-01-10 00:40:00,Belleza,Perfume,201.87,1,201.87,Transferencia bancaria,"Ciudad 32, País 5",Móvil,Redes Sociales,5,No,5
+780,4719,2024-01-22 18:20:00,Hogar,Silla,124.12,4,496.48,PayPal,"Ciudad 10, País 6",Tablet,Redes Sociales,5,Sí,1
+781,5957,2024-01-21 17:50:00,Belleza,Afeitadora,334.71,1,334.71,Transferencia bancaria,"Ciudad 30, País 4",PC,Redes Sociales,12,No,3
+782,8045,2024-02-21 20:55:00,Electrónica,Teclado,258.2,1,258.2,Criptomoneda,"Ciudad 44, País 4",Tablet,Redes Sociales,30,No,5
+783,1063,2024-02-19 10:30:00,Electrónica,Monitor,283.87,5,1419.35,Transferencia bancaria,"Ciudad 23, País 3",Móvil,Referido,3,No,2
+784,4703,2024-02-08 14:37:00,Belleza,Perfume,354.53,5,1772.65,Tarjeta de crédito,"Ciudad 22, País 7",PC,Orgánico,9,Sí,4
+785,5327,2024-02-17 04:11:00,Belleza,Afeitadora,461.16,1,461.16,Transferencia bancaria,"Ciudad 8, País 6",Móvil,Orgánico,22,Sí,4
+786,2535,2024-02-15 15:31:00,Ropa,Chaqueta,99.72,3,299.16,Tarjeta de crédito,"Ciudad 30, País 5",Tablet,Referido,22,Sí,1
+787,8847,2024-02-18 06:24:00,Electrónica,Auriculares,336.9,3,1010.7,Criptomoneda,"Ciudad 4, País 7",Tablet,Orgánico,7,No,1
+788,7005,2024-02-21 09:05:00,Electrónica,Laptop,217.24,4,868.96,Transferencia bancaria,"Ciudad 45, País 5",Móvil,Orgánico,15,Sí,1
+789,6018,2024-01-20 22:43:00,Ropa,Gorra,135.02,2,270.04,PayPal,"Ciudad 38, País 10",Móvil,Redes Sociales,19,No,1
+790,8285,2024-01-02 00:40:00,Belleza,Shampoo,265.36,3,796.08,Transferencia bancaria,"Ciudad 34, País 2",PC,Redes Sociales,23,Sí,1
+791,8615,2024-02-25 06:08:00,Hogar,Silla,338.77,5,1693.85,Tarjeta de crédito,"Ciudad 1, País 5",PC,Referido,24,Sí,5
+792,9053,2024-01-04 22:39:00,Deportes,Casco,377.53,2,755.06,PayPal,"Ciudad 14, País 8",Tablet,Orgánico,13,No,5
+793,4819,2024-02-18 04:16:00,Hogar,Mesa,14.89,5,74.45,Criptomoneda,"Ciudad 7, País 5",PC,Orgánico,4,Sí,2
+794,7929,2024-01-12 05:07:00,Hogar,Lámpara,72.18,4,288.72,Transferencia bancaria,"Ciudad 6, País 4",Tablet,Redes Sociales,15,No,4
+795,4261,2024-02-26 11:04:00,Hogar,Mesa,335.43,4,1341.72,PayPal,"Ciudad 17, País 6",Tablet,Orgánico,28,Sí,5
+796,4369,2024-01-13 15:13:00,Hogar,Sofá,121.78,4,487.12,Transferencia bancaria,"Ciudad 3, País 5",PC,Referido,24,Sí,3
+797,9320,2024-02-26 07:55:00,Juguetes,LEGO,134.67,3,404.01,PayPal,"Ciudad 28, País 8",Tablet,Orgánico,22,Sí,1
+798,1183,2024-01-12 05:00:00,Electrónica,Smartphone,35.33,1,35.33,Transferencia bancaria,"Ciudad 40, País 5",PC,Referido,18,No,1
+799,4408,2024-01-04 11:21:00,Ropa,Camisa,187.59,2,375.18,Transferencia bancaria,"Ciudad 22, País 8",PC,Referido,18,Sí,2
+800,6057,2024-01-14 12:26:00,Juguetes,Carro de juguete,443.3,1,443.3,Transferencia bancaria,"Ciudad 1, País 1",Tablet,Pago,17,Sí,2
+801,7594,2024-02-12 21:32:00,Juguetes,Peluche,255.87,2,511.74,Criptomoneda,"Ciudad 49, País 10",PC,Redes Sociales,5,Sí,4
+802,7952,2024-01-16 21:54:00,Juguetes,Peluche,482.02,3,1446.06,Tarjeta de crédito,"Ciudad 33, País 10",Móvil,Orgánico,28,Sí,2
+803,2981,2024-01-22 09:10:00,Ropa,Chaqueta,112.97,2,225.94,Tarjeta de crédito,"Ciudad 8, País 5",PC,Referido,3,No,5
+804,3156,2024-02-21 14:36:00,Deportes,Bicicleta,11.85,1,11.85,PayPal,"Ciudad 29, País 9",Móvil,Redes Sociales,1,Sí,3
+805,5986,2024-01-01 22:40:00,Ropa,Chaqueta,289.38,5,1446.9,Transferencia bancaria,"Ciudad 48, País 5",Móvil,Redes Sociales,12,No,1
+806,2166,2024-02-26 04:37:00,Electrónica,Laptop,440.01,1,440.01,Criptomoneda,"Ciudad 2, País 1",Tablet,Referido,12,Sí,2
+807,8218,2024-01-01 17:25:00,Juguetes,Muñeca,387.19,2,774.38,Tarjeta de crédito,"Ciudad 44, País 8",Móvil,Redes Sociales,17,No,2
+808,4863,2024-02-11 05:19:00,Electrónica,Teclado,170.4,2,340.8,Criptomoneda,"Ciudad 26, País 2",Tablet,Referido,19,Sí,5
+809,7862,2024-01-28 19:02:00,Belleza,Afeitadora,350.73,1,350.73,Criptomoneda,"Ciudad 2, País 4",Tablet,Referido,2,No,4
+810,2043,2024-02-05 13:15:00,Electrónica,Teclado,453.5,1,453.5,PayPal,"Ciudad 48, País 6",Móvil,Pago,18,No,4
+811,7036,2024-01-04 07:02:00,Juguetes,Peluche,165.94,4,663.76,Transferencia bancaria,"Ciudad 25, País 9",Tablet,Redes Sociales,18,Sí,2
+812,2867,2024-02-20 10:34:00,Belleza,Afeitadora,389.3,2,778.6,PayPal,"Ciudad 1, País 9",Tablet,Referido,24,No,3
+813,2050,2024-02-07 19:05:00,Juguetes,Muñeca,402.68,2,805.36,PayPal,"Ciudad 25, País 10",PC,Referido,16,Sí,5
+814,7541,2024-01-16 23:59:00,Ropa,Chaqueta,47.99,3,143.97,Transferencia bancaria,"Ciudad 26, País 3",PC,Referido,21,No,4
+815,6120,2024-02-26 09:26:00,Electrónica,Laptop,282.18,1,282.18,Criptomoneda,"Ciudad 16, País 6",Móvil,Redes Sociales,6,No,2
+816,1151,2024-01-15 06:07:00,Hogar,Silla,81.57,2,163.14,Tarjeta de crédito,"Ciudad 19, País 10",Tablet,Pago,29,Sí,4
+817,4049,2024-01-23 20:49:00,Hogar,Silla,350.41,4,1401.64,PayPal,"Ciudad 49, País 9",Móvil,Pago,6,No,3
+818,3019,2024-02-13 11:14:00,Juguetes,Rompecabezas,358.98,4,1435.92,Tarjeta de crédito,"Ciudad 3, País 5",Móvil,Redes Sociales,13,Sí,5
+819,2392,2024-02-09 18:05:00,Ropa,Pantalón,234.21,4,936.84,Tarjeta de crédito,"Ciudad 47, País 7",PC,Pago,12,No,2
+820,4858,2024-01-08 05:06:00,Electrónica,Laptop,89.35,5,446.75,Tarjeta de crédito,"Ciudad 13, País 2",PC,Orgánico,16,Sí,3
+821,1451,2024-02-12 14:38:00,Electrónica,Teclado,484.61,3,1453.83,PayPal,"Ciudad 44, País 6",Móvil,Referido,9,No,2
+822,2378,2024-01-30 16:08:00,Juguetes,Muñeca,95.68,4,382.72,Tarjeta de crédito,"Ciudad 20, País 3",PC,Referido,15,Sí,3
+823,5437,2024-01-11 05:49:00,Electrónica,Auriculares,179.13,2,358.26,Tarjeta de crédito,"Ciudad 49, País 9",PC,Pago,24,Sí,4
+824,8819,2024-01-11 21:51:00,Deportes,Bicicleta,283.83,1,283.83,Criptomoneda,"Ciudad 41, País 10",PC,Pago,7,No,5
+825,6779,2024-01-10 22:59:00,Juguetes,Peluche,380.12,5,1900.6,Transferencia bancaria,"Ciudad 39, País 10",PC,Orgánico,21,Sí,2
+826,6765,2024-02-11 03:04:00,Belleza,Perfume,490.55,2,981.1,Criptomoneda,"Ciudad 30, País 8",Tablet,Referido,3,Sí,1
+827,5897,2024-01-27 23:11:00,Belleza,Perfume,301.89,5,1509.45,Transferencia bancaria,"Ciudad 27, País 1",PC,Referido,2,Sí,5
+828,1638,2024-02-12 16:01:00,Ropa,Gorra,28.94,4,115.76,Criptomoneda,"Ciudad 41, País 3",PC,Orgánico,28,Sí,5
+829,5335,2024-01-24 04:25:00,Deportes,Pesas,315.68,1,315.68,PayPal,"Ciudad 28, País 3",Tablet,Redes Sociales,29,No,1
+830,3896,2024-02-10 02:27:00,Belleza,Crema,122.09,2,244.18,Criptomoneda,"Ciudad 1, País 8",PC,Pago,23,Sí,3
+831,7590,2024-01-10 23:10:00,Deportes,Bicicleta,38.99,5,194.95,Tarjeta de crédito,"Ciudad 16, País 6",Tablet,Redes Sociales,10,Sí,3
+832,8410,2024-01-03 22:50:00,Hogar,Cafetera,118.24,3,354.72,PayPal,"Ciudad 42, País 5",Móvil,Referido,12,No,1
+833,4796,2024-01-09 02:22:00,Hogar,Silla,489.7,5,2448.5,Transferencia bancaria,"Ciudad 14, País 1",PC,Orgánico,11,Sí,5
+834,8844,2024-02-25 02:25:00,Belleza,Shampoo,322.28,3,966.84,PayPal,"Ciudad 40, País 3",Tablet,Referido,2,No,3
+835,9784,2024-01-08 06:11:00,Juguetes,Peluche,302.38,3,907.14,Transferencia bancaria,"Ciudad 36, País 10",Móvil,Redes Sociales,15,Sí,4
+836,6778,2024-01-31 12:30:00,Juguetes,Carro de juguete,373.93,1,373.93,Transferencia bancaria,"Ciudad 32, País 8",Móvil,Pago,24,No,3
+837,7814,2024-01-03 17:22:00,Belleza,Crema,435.29,1,435.29,PayPal,"Ciudad 2, País 5",Móvil,Pago,14,Sí,4
+838,7267,2024-02-28 12:25:00,Hogar,Lámpara,350.82,1,350.82,Tarjeta de crédito,"Ciudad 10, País 1",Móvil,Redes Sociales,25,Sí,1
+839,4964,2024-02-16 16:11:00,Ropa,Zapatos,335.08,5,1675.4,Criptomoneda,"Ciudad 13, País 3",Móvil,Redes Sociales,29,No,3
+840,9833,2024-02-19 17:45:00,Belleza,Shampoo,490.94,2,981.88,PayPal,"Ciudad 5, País 3",PC,Orgánico,8,No,4
+841,6143,2024-01-19 20:33:00,Juguetes,Muñeca,316.82,2,633.64,PayPal,"Ciudad 45, País 4",PC,Pago,29,Sí,5
+842,3950,2024-01-21 08:24:00,Juguetes,LEGO,153.47,3,460.41,Criptomoneda,"Ciudad 18, País 8",Móvil,Orgánico,9,Sí,1
+843,7141,2024-01-10 04:06:00,Deportes,Casco,277.73,5,1388.65,PayPal,"Ciudad 18, País 2",Tablet,Orgánico,6,No,3
+844,8506,2024-01-11 14:08:00,Deportes,Casco,478.18,2,956.36,Transferencia bancaria,"Ciudad 9, País 3",Móvil,Pago,15,Sí,1
+845,1798,2024-02-28 15:43:00,Ropa,Chaqueta,193.67,4,774.68,Transferencia bancaria,"Ciudad 16, País 7",Tablet,Redes Sociales,24,No,2
+846,1152,2024-02-12 23:34:00,Ropa,Camisa,93.93,5,469.65,PayPal,"Ciudad 25, País 3",PC,Referido,13,No,4
+847,6596,2024-02-06 11:06:00,Juguetes,Rompecabezas,456.4,1,456.4,Criptomoneda,"Ciudad 40, País 8",Móvil,Orgánico,1,No,1
+848,4969,2024-02-28 12:17:00,Deportes,Balón,486.66,1,486.66,Tarjeta de crédito,"Ciudad 26, País 7",Móvil,Orgánico,16,No,2
+849,5319,2024-02-06 08:16:00,Electrónica,Monitor,169.7,2,339.4,PayPal,"Ciudad 13, País 9",PC,Pago,29,No,1
+850,9580,2024-01-17 06:51:00,Hogar,Lámpara,20.32,4,81.28,Criptomoneda,"Ciudad 28, País 1",Móvil,Pago,27,Sí,5
+851,1299,2024-01-30 00:41:00,Deportes,Pesas,392.46,5,1962.3,Tarjeta de crédito,"Ciudad 42, País 4",PC,Pago,16,Sí,2
+852,3035,2024-01-14 04:36:00,Belleza,Afeitadora,171.92,1,171.92,PayPal,"Ciudad 43, País 10",PC,Redes Sociales,7,No,4
+853,2790,2024-02-17 08:25:00,Electrónica,Smartphone,239.93,5,1199.65,Transferencia bancaria,"Ciudad 40, País 1",Tablet,Redes Sociales,14,Sí,3
+854,9694,2024-02-27 18:01:00,Hogar,Sofá,6.87,3,20.61,Criptomoneda,"Ciudad 1, País 2",Tablet,Orgánico,18,Sí,3
+855,6243,2024-01-03 09:03:00,Deportes,Bicicleta,64.71,2,129.42,Criptomoneda,"Ciudad 41, País 7",PC,Referido,11,Sí,3
+856,9470,2024-02-03 09:38:00,Deportes,Raqueta,438.21,2,876.42,Tarjeta de crédito,"Ciudad 14, País 5",PC,Redes Sociales,11,No,5
+857,1372,2024-02-19 20:12:00,Deportes,Pesas,126.21,1,126.21,Tarjeta de crédito,"Ciudad 36, País 1",Móvil,Redes Sociales,6,Sí,3
+858,6888,2024-01-28 20:21:00,Juguetes,Rompecabezas,131.69,4,526.76,Transferencia bancaria,"Ciudad 7, País 7",PC,Redes Sociales,3,Sí,3
+859,4788,2024-01-10 18:28:00,Ropa,Zapatos,215.73,4,862.92,Transferencia bancaria,"Ciudad 33, País 2",Tablet,Referido,26,No,1
+860,1282,2024-01-05 21:38:00,Ropa,Camisa,353.84,1,353.84,Tarjeta de crédito,"Ciudad 27, País 9",Tablet,Redes Sociales,26,Sí,3
+861,5959,2024-02-27 22:16:00,Hogar,Silla,456.33,3,1368.99,Criptomoneda,"Ciudad 46, País 7",Móvil,Referido,18,Sí,2
+862,2762,2024-01-10 03:59:00,Hogar,Mesa,436.75,4,1747.0,Transferencia bancaria,"Ciudad 28, País 10",Tablet,Pago,6,No,3
+863,1153,2024-01-15 02:36:00,Hogar,Sofá,457.63,2,915.26,Criptomoneda,"Ciudad 14, País 7",PC,Orgánico,3,No,5
+864,4588,2024-02-25 17:11:00,Ropa,Camisa,456.09,4,1824.36,Criptomoneda,"Ciudad 2, País 9",PC,Pago,13,Sí,4
+865,4528,2024-02-12 22:15:00,Deportes,Raqueta,495.52,1,495.52,Criptomoneda,"Ciudad 46, País 5",PC,Redes Sociales,10,Sí,4
+866,4677,2024-02-13 21:06:00,Hogar,Lámpara,15.91,5,79.55,PayPal,"Ciudad 25, País 3",Tablet,Orgánico,30,No,2
+867,2594,2024-01-05 07:30:00,Deportes,Bicicleta,91.74,1,91.74,Criptomoneda,"Ciudad 42, País 8",Tablet,Redes Sociales,30,No,5
+868,9158,2024-02-26 08:51:00,Deportes,Bicicleta,384.02,2,768.04,Transferencia bancaria,"Ciudad 17, País 6",Tablet,Pago,2,No,5
+869,4772,2024-01-31 18:44:00,Juguetes,LEGO,449.9,1,449.9,Criptomoneda,"Ciudad 10, País 5",Tablet,Pago,17,No,3
+870,8000,2024-01-02 03:53:00,Electrónica,Smartphone,124.81,5,624.05,Tarjeta de crédito,"Ciudad 13, País 8",PC,Redes Sociales,27,Sí,4
+871,3834,2024-02-23 14:15:00,Ropa,Gorra,61.79,3,185.37,Tarjeta de crédito,"Ciudad 16, País 4",Móvil,Orgánico,19,Sí,4
+872,4377,2024-01-13 20:09:00,Deportes,Bicicleta,408.29,4,1633.16,Tarjeta de crédito,"Ciudad 2, País 10",PC,Orgánico,30,Sí,2
+873,2234,2024-01-17 19:22:00,Ropa,Zapatos,431.01,5,2155.05,Criptomoneda,"Ciudad 27, País 2",PC,Pago,10,No,4
+874,1489,2024-01-21 06:43:00,Electrónica,Teclado,177.87,5,889.35,PayPal,"Ciudad 1, País 5",PC,Referido,16,No,2
+875,4074,2024-02-03 09:01:00,Juguetes,Carro de juguete,484.86,1,484.86,PayPal,"Ciudad 24, País 9",PC,Pago,20,No,2
+876,4098,2024-02-20 05:12:00,Electrónica,Laptop,129.61,3,388.83,PayPal,"Ciudad 38, País 5",Tablet,Redes Sociales,2,No,1
+877,6747,2024-01-10 05:19:00,Ropa,Gorra,107.51,5,537.55,Tarjeta de crédito,"Ciudad 12, País 5",PC,Pago,30,Sí,1
+878,3070,2024-02-18 04:04:00,Juguetes,Rompecabezas,463.34,3,1390.02,Tarjeta de crédito,"Ciudad 9, País 4",Tablet,Pago,6,No,1
+879,5444,2024-01-23 01:41:00,Juguetes,Peluche,185.43,5,927.15,Criptomoneda,"Ciudad 16, País 5",PC,Referido,5,Sí,3
+880,3701,2024-01-13 10:59:00,Deportes,Casco,44.22,4,176.88,PayPal,"Ciudad 44, País 2",Tablet,Referido,1,No,5
+881,9409,2024-02-20 21:49:00,Ropa,Zapatos,161.21,3,483.63,Tarjeta de crédito,"Ciudad 19, País 1",Móvil,Pago,3,No,1
+882,3855,2024-02-29 16:28:00,Juguetes,Rompecabezas,372.66,4,1490.64,Criptomoneda,"Ciudad 35, País 1",Móvil,Orgánico,29,No,4
+883,5817,2024-02-13 12:28:00,Deportes,Casco,494.26,1,494.26,Criptomoneda,"Ciudad 39, País 4",PC,Pago,18,No,3
+884,7998,2024-02-13 09:34:00,Deportes,Pesas,137.57,5,687.85,Transferencia bancaria,"Ciudad 46, País 4",Tablet,Redes Sociales,2,No,2
+885,7054,2024-03-01 23:23:00,Ropa,Chaqueta,136.57,2,273.14,Tarjeta de crédito,"Ciudad 19, País 2",Móvil,Orgánico,17,Sí,1
+886,8754,2024-02-14 19:24:00,Ropa,Chaqueta,151.55,5,757.75,Transferencia bancaria,"Ciudad 12, País 9",Tablet,Pago,3,Sí,3
+887,9957,2024-01-10 08:56:00,Deportes,Casco,25.21,1,25.21,Transferencia bancaria,"Ciudad 47, País 4",Tablet,Redes Sociales,12,Sí,3
+888,4012,2024-01-15 21:45:00,Juguetes,Peluche,265.2,1,265.2,Tarjeta de crédito,"Ciudad 22, País 8",Móvil,Orgánico,13,No,2
+889,1540,2024-01-27 12:37:00,Juguetes,LEGO,405.68,3,1217.04,PayPal,"Ciudad 24, País 2",Móvil,Pago,11,Sí,2
+890,4399,2024-02-18 06:21:00,Electrónica,Teclado,192.63,1,192.63,Tarjeta de crédito,"Ciudad 23, País 9",Móvil,Referido,21,No,1
+891,4088,2024-01-14 21:24:00,Electrónica,Laptop,69.71,3,209.13,PayPal,"Ciudad 6, País 2",Tablet,Redes Sociales,29,No,3
+892,5382,2024-02-06 17:33:00,Electrónica,Smartphone,304.6,4,1218.4,Tarjeta de crédito,"Ciudad 6, País 8",PC,Redes Sociales,25,No,1
+893,8114,2024-02-01 16:28:00,Hogar,Silla,490.23,1,490.23,Transferencia bancaria,"Ciudad 22, País 3",Móvil,Redes Sociales,6,No,2
+894,7909,2024-01-13 12:49:00,Belleza,Perfume,46.35,5,231.75,Tarjeta de crédito,"Ciudad 28, País 4",Tablet,Orgánico,23,No,4
+895,1731,2024-01-16 11:43:00,Belleza,Crema,73.75,4,295.0,Tarjeta de crédito,"Ciudad 2, País 8",Móvil,Redes Sociales,27,No,3
+896,8826,2024-02-05 03:49:00,Juguetes,Carro de juguete,209.87,2,419.74,Transferencia bancaria,"Ciudad 37, País 1",Móvil,Orgánico,21,No,5
+897,9333,2024-01-31 17:25:00,Hogar,Lámpara,173.09,3,519.27,Tarjeta de crédito,"Ciudad 12, País 7",PC,Pago,4,Sí,5
+898,3690,2024-02-10 19:54:00,Juguetes,Peluche,166.24,2,332.48,Transferencia bancaria,"Ciudad 17, País 9",Tablet,Redes Sociales,15,Sí,5
+899,2762,2024-02-05 02:26:00,Hogar,Sofá,147.55,4,590.2,Tarjeta de crédito,"Ciudad 48, País 9",PC,Referido,16,No,5
+900,8241,2024-02-08 00:43:00,Juguetes,Muñeca,233.52,3,700.56,Criptomoneda,"Ciudad 47, País 4",Móvil,Orgánico,5,Sí,5
+901,1317,2024-01-04 20:15:00,Deportes,Casco,88.03,2,176.06,PayPal,"Ciudad 8, País 4",Tablet,Pago,13,No,4
+902,6207,2024-02-13 00:42:00,Belleza,Crema,404.25,4,1617.0,Transferencia bancaria,"Ciudad 30, País 6",Móvil,Referido,10,No,3
+903,2738,2024-02-05 12:19:00,Juguetes,LEGO,300.31,1,300.31,PayPal,"Ciudad 24, País 2",Móvil,Referido,1,Sí,2
+904,2781,2024-01-07 15:14:00,Hogar,Mesa,83.69,4,334.76,Criptomoneda,"Ciudad 2, País 7",Tablet,Pago,8,Sí,1
+905,2806,2024-01-18 18:01:00,Ropa,Chaqueta,432.24,1,432.24,Tarjeta de crédito,"Ciudad 3, País 1",Móvil,Orgánico,27,Sí,1
+906,3555,2024-01-27 06:58:00,Electrónica,Teclado,356.05,5,1780.25,Transferencia bancaria,"Ciudad 50, País 5",Tablet,Redes Sociales,12,Sí,4
+907,5031,2024-01-21 16:18:00,Deportes,Balón,291.8,5,1459.0,Criptomoneda,"Ciudad 5, País 2",Tablet,Pago,17,No,5
+908,8366,2024-03-01 07:04:00,Juguetes,LEGO,188.21,1,188.21,Criptomoneda,"Ciudad 34, País 4",Tablet,Pago,16,Sí,1
+909,7447,2024-02-02 02:39:00,Belleza,Perfume,405.98,2,811.96,Tarjeta de crédito,"Ciudad 29, País 1",Tablet,Redes Sociales,9,No,4
+910,6850,2024-01-29 04:13:00,Electrónica,Smartphone,210.99,4,843.96,Tarjeta de crédito,"Ciudad 18, País 3",PC,Redes Sociales,5,No,3
+911,1191,2024-01-13 02:01:00,Belleza,Perfume,115.31,4,461.24,Criptomoneda,"Ciudad 30, País 6",PC,Orgánico,20,Sí,3
+912,2702,2024-02-25 16:29:00,Hogar,Sofá,185.98,3,557.94,PayPal,"Ciudad 30, País 4",Tablet,Orgánico,6,No,3
+913,9849,2024-02-20 04:34:00,Hogar,Mesa,240.53,5,1202.65,PayPal,"Ciudad 24, País 2",Tablet,Pago,3,Sí,1
+914,1744,2024-01-12 01:44:00,Ropa,Zapatos,180.29,2,360.58,Tarjeta de crédito,"Ciudad 9, País 8",Tablet,Redes Sociales,18,Sí,4
+915,4483,2024-01-19 14:44:00,Electrónica,Monitor,468.63,2,937.26,Tarjeta de crédito,"Ciudad 9, País 3",Móvil,Pago,24,Sí,4
+916,5194,2024-01-07 01:12:00,Belleza,Crema,131.22,5,656.1,PayPal,"Ciudad 13, País 10",PC,Pago,25,No,3
+917,5525,2024-02-17 23:52:00,Juguetes,Peluche,427.78,5,2138.9,PayPal,"Ciudad 22, País 6",Móvil,Referido,21,Sí,1
+918,5526,2024-02-16 01:54:00,Electrónica,Laptop,206.98,3,620.94,PayPal,"Ciudad 9, País 8",Tablet,Pago,22,Sí,1
+919,2369,2024-01-29 14:36:00,Deportes,Raqueta,267.06,1,267.06,Tarjeta de crédito,"Ciudad 9, País 1",PC,Referido,29,Sí,2
+920,9954,2024-02-10 02:56:00,Ropa,Zapatos,369.26,1,369.26,Tarjeta de crédito,"Ciudad 5, País 1",PC,Referido,3,Sí,4
+921,2774,2024-01-06 10:02:00,Hogar,Lámpara,498.82,4,1995.28,PayPal,"Ciudad 45, País 8",Móvil,Pago,17,Sí,1
+922,5297,2024-01-08 22:22:00,Deportes,Balón,439.34,3,1318.02,Tarjeta de crédito,"Ciudad 30, País 4",Tablet,Redes Sociales,22,No,4
+923,5569,2024-02-02 20:03:00,Electrónica,Monitor,207.54,5,1037.7,PayPal,"Ciudad 49, País 8",PC,Orgánico,18,Sí,2
+924,5158,2024-01-03 12:33:00,Ropa,Gorra,433.96,2,867.92,Tarjeta de crédito,"Ciudad 6, País 8",PC,Pago,25,No,1
+925,6730,2024-02-07 00:51:00,Ropa,Zapatos,46.55,3,139.65,Criptomoneda,"Ciudad 14, País 4",Móvil,Pago,24,No,4
+926,2913,2024-02-07 01:13:00,Juguetes,Rompecabezas,89.16,5,445.8,Transferencia bancaria,"Ciudad 38, País 7",Tablet,Pago,5,Sí,1
+927,7344,2024-02-08 14:31:00,Deportes,Balón,489.42,3,1468.26,Tarjeta de crédito,"Ciudad 5, País 1",PC,Orgánico,10,Sí,4
+928,6684,2024-02-07 07:21:00,Ropa,Zapatos,191.35,2,382.7,Transferencia bancaria,"Ciudad 23, País 10",PC,Orgánico,20,Sí,3
+929,1139,2024-01-09 00:36:00,Hogar,Cafetera,277.96,5,1389.8,Tarjeta de crédito,"Ciudad 8, País 1",Móvil,Pago,21,Sí,5
+930,7641,2024-02-17 02:48:00,Ropa,Pantalón,443.53,4,1774.12,Tarjeta de crédito,"Ciudad 20, País 8",PC,Orgánico,23,Sí,4
+931,5928,2024-01-19 16:07:00,Juguetes,Carro de juguete,489.54,1,489.54,PayPal,"Ciudad 47, País 7",Tablet,Redes Sociales,18,No,2
+932,6786,2024-01-15 11:50:00,Deportes,Bicicleta,242.72,4,970.88,Tarjeta de crédito,"Ciudad 32, País 3",Móvil,Redes Sociales,25,Sí,5
+933,5781,2024-01-22 07:18:00,Belleza,Crema,474.67,4,1898.68,Tarjeta de crédito,"Ciudad 19, País 7",Tablet,Referido,25,Sí,4
+934,4754,2024-01-24 20:10:00,Belleza,Shampoo,282.8,1,282.8,Transferencia bancaria,"Ciudad 14, País 2",Móvil,Referido,19,Sí,4
+935,2169,2024-01-16 15:22:00,Deportes,Balón,398.73,1,398.73,Criptomoneda,"Ciudad 44, País 3",PC,Orgánico,29,Sí,1
+936,6638,2024-02-29 02:16:00,Juguetes,Peluche,480.76,5,2403.8,Criptomoneda,"Ciudad 26, País 9",Tablet,Referido,19,Sí,1
+937,7889,2024-02-02 02:59:00,Ropa,Chaqueta,400.91,4,1603.64,Criptomoneda,"Ciudad 44, País 4",PC,Referido,15,No,2
+938,8277,2024-01-19 02:34:00,Belleza,Crema,495.26,3,1485.78,Criptomoneda,"Ciudad 39, País 10",PC,Redes Sociales,13,Sí,1
+939,9191,2024-02-23 16:55:00,Belleza,Afeitadora,497.13,5,2485.65,PayPal,"Ciudad 18, País 10",Tablet,Pago,18,No,3
+940,6796,2024-01-23 09:58:00,Juguetes,Rompecabezas,479.91,2,959.82,Tarjeta de crédito,"Ciudad 33, País 7",Tablet,Redes Sociales,27,No,4
+941,1726,2024-02-24 16:42:00,Hogar,Lámpara,8.34,1,8.34,Criptomoneda,"Ciudad 42, País 1",Tablet,Pago,27,Sí,3
+942,9500,2024-02-21 10:48:00,Deportes,Raqueta,224.95,2,449.9,Transferencia bancaria,"Ciudad 1, País 2",Tablet,Orgánico,16,No,3
+943,6386,2024-01-18 17:42:00,Deportes,Casco,459.79,1,459.79,Criptomoneda,"Ciudad 9, País 1",PC,Redes Sociales,30,No,5
+944,6898,2024-02-01 13:30:00,Deportes,Balón,384.24,2,768.48,Criptomoneda,"Ciudad 35, País 1",PC,Referido,23,Sí,1
+945,3923,2024-01-30 18:35:00,Hogar,Silla,47.39,5,236.95,PayPal,"Ciudad 16, País 7",PC,Pago,21,No,2
+946,3713,2024-02-23 18:11:00,Deportes,Casco,251.2,1,251.2,Transferencia bancaria,"Ciudad 9, País 3",Móvil,Redes Sociales,25,No,4
+947,9620,2024-01-08 16:38:00,Ropa,Chaqueta,285.89,5,1429.45,Transferencia bancaria,"Ciudad 45, País 6",Móvil,Orgánico,21,No,4
+948,2727,2024-01-05 23:53:00,Deportes,Pesas,216.56,4,866.24,PayPal,"Ciudad 17, País 5",Móvil,Redes Sociales,16,Sí,5
+949,1657,2024-01-16 19:00:00,Ropa,Zapatos,141.98,1,141.98,Tarjeta de crédito,"Ciudad 3, País 7",Tablet,Referido,25,No,2
+950,5143,2024-02-11 20:30:00,Hogar,Sofá,298.69,1,298.69,PayPal,"Ciudad 11, País 6",Tablet,Orgánico,18,No,2
+951,1532,2024-02-01 01:41:00,Juguetes,LEGO,43.78,2,87.56,Criptomoneda,"Ciudad 48, País 1",Tablet,Orgánico,29,No,5
+952,6294,2024-02-20 09:55:00,Ropa,Zapatos,81.77,1,81.77,Tarjeta de crédito,"Ciudad 9, País 8",Móvil,Pago,5,Sí,3
+953,4065,2024-02-01 22:41:00,Juguetes,Carro de juguete,411.53,4,1646.12,Transferencia bancaria,"Ciudad 9, País 8",PC,Redes Sociales,21,No,3
+954,2815,2024-02-11 03:37:00,Belleza,Crema,132.68,3,398.04,PayPal,"Ciudad 16, País 10",Móvil,Pago,30,No,3
+955,8895,2024-01-16 19:21:00,Ropa,Gorra,400.55,1,400.55,Transferencia bancaria,"Ciudad 35, País 9",Móvil,Referido,13,No,4
+956,1817,2024-01-13 11:48:00,Ropa,Chaqueta,472.42,4,1889.68,Tarjeta de crédito,"Ciudad 31, País 4",PC,Pago,21,Sí,2
+957,9429,2024-02-27 06:10:00,Hogar,Mesa,489.32,1,489.32,PayPal,"Ciudad 45, País 5",PC,Pago,5,Sí,3
+958,8011,2024-02-09 03:24:00,Electrónica,Auriculares,111.65,5,558.25,PayPal,"Ciudad 34, País 5",PC,Referido,5,No,2
+959,9198,2024-02-10 23:01:00,Ropa,Pantalón,81.74,1,81.74,Criptomoneda,"Ciudad 6, País 3",PC,Referido,14,No,2
+960,8048,2024-01-28 12:12:00,Hogar,Sofá,325.21,5,1626.05,Criptomoneda,"Ciudad 1, País 7",PC,Redes Sociales,12,Sí,5
+961,7947,2024-02-25 09:24:00,Juguetes,LEGO,265.04,1,265.04,Criptomoneda,"Ciudad 9, País 8",Móvil,Orgánico,3,No,2
+962,8304,2024-02-25 18:19:00,Juguetes,Muñeca,329.37,5,1646.85,Tarjeta de crédito,"Ciudad 13, País 8",Tablet,Referido,17,No,1
+963,2288,2024-02-13 12:51:00,Deportes,Casco,269.82,4,1079.28,Transferencia bancaria,"Ciudad 39, País 2",Móvil,Referido,14,Sí,1
+964,8951,2024-01-15 07:59:00,Deportes,Raqueta,368.33,1,368.33,Tarjeta de crédito,"Ciudad 35, País 1",Móvil,Pago,28,No,4
+965,1498,2024-01-25 12:24:00,Belleza,Shampoo,203.27,5,1016.35,PayPal,"Ciudad 40, País 9",PC,Orgánico,6,No,3
+966,4775,2024-01-30 14:05:00,Electrónica,Smartphone,410.16,2,820.32,Tarjeta de crédito,"Ciudad 43, País 6",Móvil,Orgánico,19,Sí,3
+967,9455,2024-02-05 04:41:00,Hogar,Sofá,109.71,4,438.84,PayPal,"Ciudad 49, País 2",Tablet,Redes Sociales,7,No,4
+968,5945,2024-01-12 02:40:00,Hogar,Lámpara,465.4,2,930.8,Transferencia bancaria,"Ciudad 43, País 5",Tablet,Referido,12,No,4
+969,3681,2024-01-30 14:59:00,Hogar,Silla,316.99,1,316.99,Criptomoneda,"Ciudad 17, País 1",Móvil,Redes Sociales,16,No,2
+970,3724,2024-01-15 20:46:00,Belleza,Perfume,450.76,1,450.76,Transferencia bancaria,"Ciudad 23, País 9",Tablet,Orgánico,29,No,5
+971,3739,2024-02-06 06:51:00,Hogar,Sofá,261.29,1,261.29,Tarjeta de crédito,"Ciudad 16, País 1",PC,Orgánico,1,Sí,3
+972,8737,2024-02-17 18:55:00,Electrónica,Monitor,377.26,3,1131.78,Transferencia bancaria,"Ciudad 23, País 1",Móvil,Orgánico,24,Sí,2
+973,2712,2024-01-19 02:27:00,Deportes,Pesas,312.68,2,625.36,Tarjeta de crédito,"Ciudad 43, País 7",PC,Referido,8,Sí,3
+974,9075,2024-02-12 22:01:00,Juguetes,Carro de juguete,32.69,5,163.45,Transferencia bancaria,"Ciudad 4, País 7",PC,Redes Sociales,26,Sí,2
+975,1245,2024-02-10 13:58:00,Electrónica,Auriculares,309.85,5,1549.25,Criptomoneda,"Ciudad 7, País 8",PC,Orgánico,24,No,2
+976,6189,2024-01-20 12:47:00,Belleza,Shampoo,456.88,1,456.88,Transferencia bancaria,"Ciudad 23, País 7",PC,Referido,27,Sí,4
+977,8485,2024-02-16 21:59:00,Belleza,Perfume,5.08,3,15.24,Criptomoneda,"Ciudad 25, País 4",PC,Redes Sociales,1,Sí,1
+978,9933,2024-01-16 16:28:00,Belleza,Maquillaje,221.61,1,221.61,Tarjeta de crédito,"Ciudad 21, País 3",Móvil,Orgánico,22,No,2
+979,1685,2024-02-15 02:05:00,Ropa,Camisa,365.13,2,730.26,Transferencia bancaria,"Ciudad 31, País 10",PC,Referido,22,Sí,4
+980,6163,2024-02-21 04:53:00,Hogar,Silla,442.13,2,884.26,Tarjeta de crédito,"Ciudad 48, País 4",Tablet,Orgánico,30,Sí,2
+981,6910,2024-02-22 10:27:00,Deportes,Pesas,378.78,2,757.56,Tarjeta de crédito,"Ciudad 39, País 8",PC,Referido,17,No,4
+982,9817,2024-01-29 23:32:00,Deportes,Pesas,91.1,5,455.5,Criptomoneda,"Ciudad 32, País 3",Tablet,Redes Sociales,19,No,2
+983,6368,2024-01-13 19:32:00,Electrónica,Monitor,82.29,3,246.87,Criptomoneda,"Ciudad 40, País 4",PC,Referido,27,No,3
+984,7936,2024-01-12 01:08:00,Juguetes,Muñeca,108.36,2,216.72,Tarjeta de crédito,"Ciudad 46, País 6",PC,Referido,28,No,3
+985,6945,2024-02-22 18:29:00,Electrónica,Auriculares,61.04,4,244.16,PayPal,"Ciudad 14, País 9",Móvil,Pago,24,No,3
+986,9543,2024-01-05 07:21:00,Belleza,Maquillaje,67.43,5,337.15,Criptomoneda,"Ciudad 13, País 6",Tablet,Redes Sociales,12,No,1
+987,3537,2024-01-22 09:16:00,Ropa,Pantalón,390.61,3,1171.83,Tarjeta de crédito,"Ciudad 45, País 1",Móvil,Pago,20,Sí,2
+988,4622,2024-02-05 05:27:00,Juguetes,Rompecabezas,167.17,3,501.51,Tarjeta de crédito,"Ciudad 1, País 4",Móvil,Pago,11,Sí,2
+989,2418,2024-02-25 13:49:00,Deportes,Balón,189.32,3,567.96,Criptomoneda,"Ciudad 12, País 6",PC,Orgánico,8,Sí,3
+990,8242,2024-02-28 14:27:00,Juguetes,LEGO,107.05,3,321.15,Transferencia bancaria,"Ciudad 8, País 9",PC,Orgánico,21,No,1
+991,4502,2024-01-12 07:47:00,Deportes,Pesas,410.72,1,410.72,Criptomoneda,"Ciudad 36, País 6",Tablet,Redes Sociales,26,Sí,1
+992,6632,2024-01-09 07:56:00,Belleza,Crema,43.46,2,86.92,PayPal,"Ciudad 38, País 5",Tablet,Referido,15,Sí,1
+993,3889,2024-02-03 00:49:00,Electrónica,Teclado,213.14,1,213.14,Criptomoneda,"Ciudad 8, País 3",Móvil,Referido,12,Sí,5
+994,4189,2024-01-12 17:51:00,Belleza,Shampoo,174.76,3,524.28,Criptomoneda,"Ciudad 28, País 5",PC,Pago,30,No,1
+995,1408,2024-02-16 09:07:00,Electrónica,Laptop,152.54,5,762.7,PayPal,"Ciudad 44, País 6",Móvil,Orgánico,11,Sí,3
+996,1341,2024-01-28 18:36:00,Ropa,Chaqueta,459.16,2,918.32,Criptomoneda,"Ciudad 12, País 8",Móvil,Orgánico,12,Sí,3
+997,8173,2024-02-08 19:56:00,Electrónica,Teclado,353.08,4,1412.32,Tarjeta de crédito,"Ciudad 4, País 10",PC,Redes Sociales,9,No,2
+998,4988,2024-02-02 20:47:00,Hogar,Sofá,211.82,2,423.64,Criptomoneda,"Ciudad 7, País 3",PC,Redes Sociales,23,Sí,2
+999,2069,2024-02-14 10:37:00,Deportes,Balón,223.87,5,1119.35,PayPal,"Ciudad 7, País 5",Tablet,Pago,24,No,5
+1000,5866,2024-01-29 12:07:00,Deportes,Raqueta,36.34,5,181.7,Transferencia bancaria,"Ciudad 39, País 7",Tablet,Pago,15,No,5
