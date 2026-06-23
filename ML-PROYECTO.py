@@ -587,11 +587,12 @@ def train_ml_model(df):
         with st.spinner("Entrenando modelo avanzado... Esto puede tomar algunos minutos."):
             cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
             grid_search = GridSearchCV(
-                pipeline, param_grid, 
-                cv=cv.split(X_train, y_bins), 
-                scoring="neg_mean_squared_error", 
-                n_jobs=-1, 
-                verbose=1
+    pipeline, param_grid, 
+    cv=cv.split(X_train, y_bins), 
+    scoring="neg_mean_squared_error", 
+    n_jobs=1,  # ✅
+    verbose=1
+
             )
             grid_search.fit(X_train, y_train)
             
